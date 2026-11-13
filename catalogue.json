@@ -1,0 +1,32 @@
+[
+  {
+    "region": "Gulf of St. Lawrence",
+    "stem": "gulf-Overlay-both",
+    "page": "programs/gulf-overlay-both.html"
+  },
+  {
+    "region": "Gulf of St. Lawrence",
+    "stem": "gulf-Overlay-from1990",
+    "page": "programs/gulf-overlay-from1990.html"
+  },
+  {
+    "region": "NE Newfoundland",
+    "stem": "NFLND-Overlay-both",
+    "page": "programs/nflnd-overlay-both.html"
+  },
+  {
+    "region": "NE Newfoundland",
+    "stem": "NFLND-Overlay-from1990",
+    "page": "programs/nflnd-overlay-from1990.html"
+  },
+  {
+    "region": "South Labrador Coast",
+    "stem": "SLabCoast-Overlay-both",
+    "page": "programs/slabcoast-overlay-both.html"
+  },
+  {
+    "region": "South Labrador Coast",
+    "stem": "SLabCoast-Overlay-from1990",
+    "page": "programs/slabcoast-overlay-from1990.html"
+  }
+]

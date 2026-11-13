@@ -1,0 +1,707 @@
+[
+  {
+    "path": ".gitignore",
+    "size": 30,
+    "sha256": "963257702ed0d6c0771a46d0510baf5dea5005eabb30bdae07245ecfe21ba790"
+  },
+  {
+    "path": "Build.ps1",
+    "size": 1207,
+    "sha256": "8d50500d1e9aefe97ea01fd877bae48239271a291ed9ba0794338e4b31c30f04"
+  },
+  {
+    "path": "catalogue.json",
+    "size": 9292,
+    "sha256": "f74fcf2c98367eca84a76041bc0d491afb5abd0e74825f6d5e40d88fa3580ea1"
+  },
+  {
+    "path": "docs/.nojekyll",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-batch-csharp.png",
+    "size": 239736,
+    "sha256": "91aa4cf3b92a4e82dd9f34310ed3c49cf180e0376cab12ad11618fdf481d349d"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-batch-python.png",
+    "size": 270483,
+    "sha256": "64249ec0c074110d430b37b44662dbfe1a85f2c3585d3b95930c72ac97cdd61f"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-overlay-erie.png",
+    "size": 1025867,
+    "sha256": "ff080a0a2d375394c391635d2a544c3f8c257a0105ba86c7b760d155779cb257"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-overlay-great_lakes.png",
+    "size": 971643,
+    "sha256": "d9a6edc1e0d38f69c1feb1d0bd15715b86bb5141db58e97098c220895ed2d243"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-overlay-huron.png",
+    "size": 1134471,
+    "sha256": "493ee4008f1fb676b9c73994d90127184d9bbcc7691cf65130bf1df4c0b468f9"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-overlay-michigan.png",
+    "size": 820029,
+    "sha256": "7736f423af119e99d4482b36e74e0363484bf932844ab8967e080b54d8d9bea6"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-overlay-ontario.png",
+    "size": 679692,
+    "sha256": "eb23c876cbf61ede9f0afb69a65b385748525f41c5681402de0d5804e892d5ab"
+  },
+  {
+    "path": "docs/assets/charts/great-lakes-overlay-superior.png",
+    "size": 968287,
+    "sha256": "f6f3d1967dc35bd93c62d450a901b6796816e2e71a49f1dd8f225be3995fd63e"
+  },
+  {
+    "path": "docs/assets/charts/gulf-Overlay-both-lastFive.png",
+    "size": 304239,
+    "sha256": "14da940c3c7b3131f317ce4c7dd7d0ae4e6550f3010ca049c28622a6cdebd145"
+  },
+  {
+    "path": "docs/assets/charts/gulf-Overlay-both-python-single.png",
+    "size": 439559,
+    "sha256": "6363e675dc3ba3b1d9b6660f233f333dd44632af7d8988e4de8474a5e0fdf5d1"
+  },
+  {
+    "path": "docs/assets/charts/gulf-Overlay-both-single.png",
+    "size": 269881,
+    "sha256": "fff676c490849885e0e691b32deee8e47203fc158bcb8043a4a29678d4a91a63"
+  },
+  {
+    "path": "docs/assets/charts/gulf-Overlay-from1990-lastFive.png",
+    "size": 304239,
+    "sha256": "14da940c3c7b3131f317ce4c7dd7d0ae4e6550f3010ca049c28622a6cdebd145"
+  },
+  {
+    "path": "docs/assets/charts/gulf-Overlay-from1990-python-single.png",
+    "size": 439999,
+    "sha256": "389b8710d03da0de29454be04bf77554511c738a448eb7f585fc55527ad88f02"
+  },
+  {
+    "path": "docs/assets/charts/gulf-Overlay-from1990-single.png",
+    "size": 269881,
+    "sha256": "fff676c490849885e0e691b32deee8e47203fc158bcb8043a4a29678d4a91a63"
+  },
+  {
+    "path": "docs/assets/charts/NFLND-Overlay-both-lastFive.png",
+    "size": 251717,
+    "sha256": "52170a604b0a3607029f6c7cb9b9485fc0e56b8a3edc949fe811cf358c51f059"
+  },
+  {
+    "path": "docs/assets/charts/NFLND-Overlay-both-python-single.png",
+    "size": 381000,
+    "sha256": "0d36cfc70c6c0fb75dc6938b56560ee6be5187c22d9da4c6b1d0cbda527889f7"
+  },
+  {
+    "path": "docs/assets/charts/NFLND-Overlay-both-single.png",
+    "size": 226578,
+    "sha256": "9b596298e6e05e63e7272544b4af1b2e2ba86243f00d9083d8e47cae65d21e7b"
+  },
+  {
+    "path": "docs/assets/charts/NFLND-Overlay-from1990-lastFive.png",
+    "size": 251717,
+    "sha256": "52170a604b0a3607029f6c7cb9b9485fc0e56b8a3edc949fe811cf358c51f059"
+  },
+  {
+    "path": "docs/assets/charts/NFLND-Overlay-from1990-python-single.png",
+    "size": 381419,
+    "sha256": "140d941ee1e46480bddfaf2d0bc3f4cc7c149f4e32e48e33a032a058326e3a21"
+  },
+  {
+    "path": "docs/assets/charts/NFLND-Overlay-from1990-single.png",
+    "size": 226578,
+    "sha256": "9b596298e6e05e63e7272544b4af1b2e2ba86243f00d9083d8e47cae65d21e7b"
+  },
+  {
+    "path": "docs/assets/charts/SLabCoast-Overlay-both-lastFive.png",
+    "size": 383932,
+    "sha256": "eb30e84eefa50a1aa5ba0aa87379bcb165fb4fe9e2527ba7f79ca936b556411d"
+  },
+  {
+    "path": "docs/assets/charts/SLabCoast-Overlay-both-python-single.png",
+    "size": 550826,
+    "sha256": "7890144e010375d01c47ff902e1dba85353810c57bf433bac6930ccfbce3eecb"
+  },
+  {
+    "path": "docs/assets/charts/SLabCoast-Overlay-both-single.png",
+    "size": 325478,
+    "sha256": "5bd9250f8174ec9f75f7834347a3a123a81b8d74ce6187ed7645e2c46658349d"
+  },
+  {
+    "path": "docs/assets/charts/SLabCoast-Overlay-from1990-lastFive.png",
+    "size": 383932,
+    "sha256": "eb30e84eefa50a1aa5ba0aa87379bcb165fb4fe9e2527ba7f79ca936b556411d"
+  },
+  {
+    "path": "docs/assets/charts/SLabCoast-Overlay-from1990-python-single.png",
+    "size": 551319,
+    "sha256": "84331d43cb8b0ede72e37d0376b943acf45d076ce8f85194e36e370f01a9b04e"
+  },
+  {
+    "path": "docs/assets/charts/SLabCoast-Overlay-from1990-single.png",
+    "size": 325478,
+    "sha256": "5bd9250f8174ec9f75f7834347a3a123a81b8d74ce6187ed7645e2c46658349d"
+  },
+  {
+    "path": "docs/assets/site.css",
+    "size": 3185,
+    "sha256": "15b348042d2fc96a03e9a38995e94b4e84f3a7857ae8c6656e2fd0e0a9ee53fe"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-batch-csharp.webp",
+    "size": 16572,
+    "sha256": "b289b17493880a6536db45fa6cc05f7d9c200a9fefad6543fd73df0d35f0295c"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-batch-python.webp",
+    "size": 18414,
+    "sha256": "8a500bce3560779286cc3468d7371fb2488506000e4ef04a881f95bd1467ad53"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-overlay-erie.webp",
+    "size": 21494,
+    "sha256": "0ae0d498571a611a2172f84a09aef2b58e48b2362cffaba9dff5b8213ee887da"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-overlay-great_lakes.webp",
+    "size": 22006,
+    "sha256": "e40c708e6e7cd2c2cb6eaf22e4f2cd8b009fbb6679a0b3b7f6ff8dcf02a6d5a3"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-overlay-huron.webp",
+    "size": 23572,
+    "sha256": "6145257aa4c41f5a74d448f60a21da77eabf4ff2a7ec4aeebffd957097dbeff4"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-overlay-michigan.webp",
+    "size": 19024,
+    "sha256": "65d21720f7b3bde3a4d5361be48fa61619e9d51e7c863266031977f8f5e912f0"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-overlay-ontario.webp",
+    "size": 16268,
+    "sha256": "4ad849a7f71b915c7d0f2bca1cf2e0e671adcaf4ea6657a4a7717d8e9ada5104"
+  },
+  {
+    "path": "docs/assets/thumbs/great-lakes-overlay-superior.webp",
+    "size": 21966,
+    "sha256": "8c47b5d65e4bd0fdf4be44dcb30026a2318e844a92e6b142d1727777fe329f61"
+  },
+  {
+    "path": "docs/assets/thumbs/gulf-Overlay-both-lastFive.webp",
+    "size": 17390,
+    "sha256": "4ca21698ae24865fca22b16703ed506289d7dfba1e52198146a9c0b4438023a9"
+  },
+  {
+    "path": "docs/assets/thumbs/gulf-Overlay-both-python-single.webp",
+    "size": 24218,
+    "sha256": "eadea20af1077bb45bbed0fa5c08cac5be36cbaedd36f59e04bb712e67c39966"
+  },
+  {
+    "path": "docs/assets/thumbs/gulf-Overlay-both-single.webp",
+    "size": 14406,
+    "sha256": "47af82c14bccf6fcdf91ae8b9edd1e416589829a2df45b12295843455e14bd0d"
+  },
+  {
+    "path": "docs/assets/thumbs/gulf-Overlay-from1990-lastFive.webp",
+    "size": 17390,
+    "sha256": "4ca21698ae24865fca22b16703ed506289d7dfba1e52198146a9c0b4438023a9"
+  },
+  {
+    "path": "docs/assets/thumbs/gulf-Overlay-from1990-python-single.webp",
+    "size": 24208,
+    "sha256": "87da724d79cd08071846bf3561a378809547a28429a7b2643d4fa0d14b011096"
+  },
+  {
+    "path": "docs/assets/thumbs/gulf-Overlay-from1990-single.webp",
+    "size": 14406,
+    "sha256": "47af82c14bccf6fcdf91ae8b9edd1e416589829a2df45b12295843455e14bd0d"
+  },
+  {
+    "path": "docs/assets/thumbs/NFLND-Overlay-both-lastFive.webp",
+    "size": 15102,
+    "sha256": "09cd49bdd41bb838d50100b6d79a919cfc1f6e50409383b20b0dc6ba083f51cb"
+  },
+  {
+    "path": "docs/assets/thumbs/NFLND-Overlay-both-python-single.webp",
+    "size": 22060,
+    "sha256": "1eb327e805814b24083b507db09a7955d01a0cf58c6a57b7e0aa4b40182e60d6"
+  },
+  {
+    "path": "docs/assets/thumbs/NFLND-Overlay-both-single.webp",
+    "size": 12648,
+    "sha256": "cbffb240e687d73d27a88e49330923ea906287362d78393525983cebcdc3af26"
+  },
+  {
+    "path": "docs/assets/thumbs/NFLND-Overlay-from1990-lastFive.webp",
+    "size": 15102,
+    "sha256": "09cd49bdd41bb838d50100b6d79a919cfc1f6e50409383b20b0dc6ba083f51cb"
+  },
+  {
+    "path": "docs/assets/thumbs/NFLND-Overlay-from1990-python-single.webp",
+    "size": 22090,
+    "sha256": "34f161743c4baf140289fe17aef3667041d6549f636168c1ae084c6844f84f9c"
+  },
+  {
+    "path": "docs/assets/thumbs/NFLND-Overlay-from1990-single.webp",
+    "size": 12648,
+    "sha256": "cbffb240e687d73d27a88e49330923ea906287362d78393525983cebcdc3af26"
+  },
+  {
+    "path": "docs/assets/thumbs/SLabCoast-Overlay-both-lastFive.webp",
+    "size": 22250,
+    "sha256": "00109eab07706183537737d331a8c21eaff36b93da6d60d675f711d759795da6"
+  },
+  {
+    "path": "docs/assets/thumbs/SLabCoast-Overlay-both-python-single.webp",
+    "size": 28748,
+    "sha256": "75aa81517ebcf2319e4cf643d5a5529257f2db3a9a931fd16f5302434f2b1ce1"
+  },
+  {
+    "path": "docs/assets/thumbs/SLabCoast-Overlay-both-single.webp",
+    "size": 16440,
+    "sha256": "369f4892b6aca8f6ec5753f74bf3fee2001ca20558d98daa9a8eb2f8fc38a63f"
+  },
+  {
+    "path": "docs/assets/thumbs/SLabCoast-Overlay-from1990-lastFive.webp",
+    "size": 22250,
+    "sha256": "00109eab07706183537737d331a8c21eaff36b93da6d60d675f711d759795da6"
+  },
+  {
+    "path": "docs/assets/thumbs/SLabCoast-Overlay-from1990-python-single.webp",
+    "size": 29080,
+    "sha256": "7ec9a6c0fd71e731684b465e20788caaee764eeca4df9bdb78964d9907f56a27"
+  },
+  {
+    "path": "docs/assets/thumbs/SLabCoast-Overlay-from1990-single.webp",
+    "size": 16440,
+    "sha256": "369f4892b6aca8f6ec5753f74bf3fee2001ca20558d98daa9a8eb2f8fc38a63f"
+  },
+  {
+    "path": "docs/downloads/combined-great-lakes-legacy-csharp.zip",
+    "size": 29562,
+    "sha256": "b2bfd8c5752b5bf3b6daed9ebd14b1f535d9e8cda61e193d6d63ebc9300e77e9"
+  },
+  {
+    "path": "docs/downloads/combined-great-lakes-python.zip",
+    "size": 17681,
+    "sha256": "5fa609456aab1fe164f9ba476f537fb87ab9df7d816af13708e9619f262a6334"
+  },
+  {
+    "path": "docs/downloads/east-coast-csharp.zip",
+    "size": 3329555,
+    "sha256": "f81778576c4b2dfdb04dfe797727d2125aec56bfa523165418a4e70d979ac703"
+  },
+  {
+    "path": "docs/downloads/east-coast-python.zip",
+    "size": 86438,
+    "sha256": "17aef7ae660b4c413cca29dc354f47b792b604ad1ab76410a5aeacced7930193"
+  },
+  {
+    "path": "docs/downloads/great-lakes-batch-csharp.zip",
+    "size": 1645230,
+    "sha256": "ccdbae48908e0764f7934908deefbf2d57024792e0c1fe1424272a171beac263"
+  },
+  {
+    "path": "docs/downloads/great-lakes-batch-python.zip",
+    "size": 2651993,
+    "sha256": "8ecf9dedc28c4ade9a3ff76c1c1405145737ac3af13372201e58033a459b036c"
+  },
+  {
+    "path": "docs/downloads/great-lakes-overlays-csharp.zip",
+    "size": 15719082,
+    "sha256": "de6fe02f7f0ed7d3fa99431cbebd7ae0271598028a5cd8bc5aef38ccca50ea96"
+  },
+  {
+    "path": "docs/downloads/great-lakes-overlays-python.zip",
+    "size": 84836,
+    "sha256": "df69d2c49713a27556df1ac5c13078e229b3093505adac8761843120191ff4c7"
+  },
+  {
+    "path": "docs/index.html",
+    "size": 16094,
+    "sha256": "81944270e15141e404326143fa9f755590e2751074c22e2f875ae84866c0ca8f"
+  },
+  {
+    "path": "docs/programs/combined-great-lakes-legacy-csharp.html",
+    "size": 2814,
+    "sha256": "71b1e8ba5c65b1e4a6dae554359f7a4dab33fca6df7c2749d031c03745b189fd"
+  },
+  {
+    "path": "docs/programs/combined-great-lakes-legacy-python.html",
+    "size": 2892,
+    "sha256": "98d4969c8161b904ae15cdc1853767a3d9f02e3e95930aae423532ccd249654b"
+  },
+  {
+    "path": "docs/programs/great-lakes-batch-csharp.html",
+    "size": 3008,
+    "sha256": "31631d3c13a1ed538cd3734f99ca014d1dea463bc42b91563a1f76740866d737"
+  },
+  {
+    "path": "docs/programs/great-lakes-batch-python.html",
+    "size": 2966,
+    "sha256": "784c28d660084e21981bf0d323394cdad5c9580c0ef3ace24d35a43490264145"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-erie.html",
+    "size": 2825,
+    "sha256": "9981fb543345ede7147a04626b3907e781a12f134328cec973a0ff0492d35579"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-great_lakes.html",
+    "size": 2893,
+    "sha256": "7eb8e5086539492d9042bb2a8e2fc0c43b354bb7848b8cbd1373dd1eb86f4805"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-huron.html",
+    "size": 2833,
+    "sha256": "8714b5e477abc9378f5ad5fad18305235d39d0f3429d5662723c9fe216d4ce5b"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-michigan.html",
+    "size": 2857,
+    "sha256": "491cc49ed2c037c7a2a375dca0bf15939440c650114927e717249d71302f7ee5"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-ontario.html",
+    "size": 2849,
+    "sha256": "3f8bea94b29aab33da55332ab5adac264993dcc16f79dac0bc1f0b7d85a08ab3"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-superior.html",
+    "size": 2857,
+    "sha256": "f8e61315745dbf14010079643d97de149dce70cac65538f6ad8489687f43b398"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlays-python.html",
+    "size": 2819,
+    "sha256": "47d9cb4c261eb5fa52a328448cb99a5eb1fa6dc9ecaf184772113696a1096588"
+  },
+  {
+    "path": "docs/programs/gulf-overlay-both-python.html",
+    "size": 2846,
+    "sha256": "06b48cf32a339b697efcfb81d11ee454ba4f49a434e7a6efc33084cbff1e26db"
+  },
+  {
+    "path": "docs/programs/gulf-overlay-both.html",
+    "size": 5180,
+    "sha256": "748eb3a34b6aeae2f1643949291e65226237f8f078e4c1b2c69f2c204bda6e88"
+  },
+  {
+    "path": "docs/programs/gulf-overlay-from1990-python.html",
+    "size": 2827,
+    "sha256": "63eadee331964dbd1b412d0a071d55a59b66199d1b5a3fc12ce26c5f5dfad6ed"
+  },
+  {
+    "path": "docs/programs/gulf-overlay-from1990.html",
+    "size": 5074,
+    "sha256": "a2d69065eb41569cf4867f89eac009a0304aaf3a478512713bfe8a6e1c4a3b7c"
+  },
+  {
+    "path": "docs/programs/nflnd-overlay-both-python.html",
+    "size": 2852,
+    "sha256": "919748ebdbc41a04d12d1dc21668a6e7a3a1ff3ec17010cb1849cf2074ccebd7"
+  },
+  {
+    "path": "docs/programs/nflnd-overlay-both.html",
+    "size": 5201,
+    "sha256": "cb3e6e4705d5bbbdef7933f491c108069c57a2072e0f355f4f60e0ccbf0f0d2f"
+  },
+  {
+    "path": "docs/programs/nflnd-overlay-from1990-python.html",
+    "size": 2833,
+    "sha256": "556693012e0d92dc335fcbe3ed71ab2dca99c5d1486002898aed95dc0a9c6388"
+  },
+  {
+    "path": "docs/programs/nflnd-overlay-from1990.html",
+    "size": 5095,
+    "sha256": "67e30f7b54ea6ab3e0b6dc3e14b182fd5ef187daee365d9121eb4e3101f074a9"
+  },
+  {
+    "path": "docs/programs/slabcoast-overlay-both-python.html",
+    "size": 2889,
+    "sha256": "59d4042ae051f4a2656742cc87315193f117feecf38e4a0ddc9c1572f718662b"
+  },
+  {
+    "path": "docs/programs/slabcoast-overlay-both.html",
+    "size": 5298,
+    "sha256": "766a0d10dadfaaa1329dc437a8e9d3693ec8e1a536064aa3ae1e5392b5febbb8"
+  },
+  {
+    "path": "docs/programs/slabcoast-overlay-from1990-python.html",
+    "size": 2870,
+    "sha256": "b928771bdb6e08aaab412c30efee8a206fbf9c411eaf7b1a181227e4c6d3fc84"
+  },
+  {
+    "path": "docs/programs/slabcoast-overlay-from1990.html",
+    "size": 5192,
+    "sha256": "fd4e25a955cd52ad1270beec8a5dd701b538ccc16e796baee0153236189111df"
+  },
+  {
+    "path": "east-coast-python-requirements.txt",
+    "size": 27,
+    "sha256": "1a6bff9c99651109a7a46bdb2ef87082cf3ca2804edb1732fb86dca63d56dcb8"
+  },
+  {
+    "path": "EAST_COAST.md",
+    "size": 5166,
+    "sha256": "bbee324583b1fe03d826672a453693cb88e2f9e3be7e136239b9a7ad6d9f6988"
+  },
+  {
+    "path": "Gulf/gulf-Overlay-both.cs",
+    "size": 280,
+    "sha256": "e2419ceeff93cb12681c1542195d7fca3b8adeda34da3f747b1fa8950847e6ee"
+  },
+  {
+    "path": "Gulf/gulf-Overlay-both.exe",
+    "size": 20480,
+    "sha256": "df454233990cfa81562cbf53c74d805ba2971e0b542338636c9d79be3695bcd5"
+  },
+  {
+    "path": "Gulf/gulf-Overlay-both.py",
+    "size": 6517,
+    "sha256": "a3c89cd152b7c7c7d15fd8346a86b7568ea3d2a69eaf8ecac17c73a3e07716cc"
+  },
+  {
+    "path": "Gulf/gulf-Overlay-from1990.cs",
+    "size": 279,
+    "sha256": "cf676320c0e1d5cd4391e81bb5027f76fe94010d20dfe674948e8d971c4694a9"
+  },
+  {
+    "path": "Gulf/gulf-Overlay-from1990.exe",
+    "size": 20480,
+    "sha256": "b7ab1a14f6e06f0a051f66680fa08d0ef3c510e148390b89d897e044a482a613"
+  },
+  {
+    "path": "Gulf/gulf-Overlay-from1990.py",
+    "size": 5661,
+    "sha256": "8f3f115c676a2a2d42816b9ca76c2eb71d3f7ef027a72f87f2cc7730c1fc4d76"
+  },
+  {
+    "path": "Gulf/output/gulf-Overlay-both-lastFive.png",
+    "size": 304239,
+    "sha256": "14da940c3c7b3131f317ce4c7dd7d0ae4e6550f3010ca049c28622a6cdebd145"
+  },
+  {
+    "path": "Gulf/output/gulf-Overlay-both-single.png",
+    "size": 269881,
+    "sha256": "fff676c490849885e0e691b32deee8e47203fc158bcb8043a4a29678d4a91a63"
+  },
+  {
+    "path": "Gulf/output/gulf-Overlay-from1990-lastFive.png",
+    "size": 304239,
+    "sha256": "14da940c3c7b3131f317ce4c7dd7d0ae4e6550f3010ca049c28622a6cdebd145"
+  },
+  {
+    "path": "Gulf/output/gulf-Overlay-from1990-single.png",
+    "size": 269881,
+    "sha256": "fff676c490849885e0e691b32deee8e47203fc158bcb8043a4a29678d4a91a63"
+  },
+  {
+    "path": "Gulf/weeklyGulf-seasons.csv",
+    "size": 105899,
+    "sha256": "1ada1dd3cea2b4f81102849b3fa7fdeb2ea26f00c1c11cb4c03da5b06777c182"
+  },
+  {
+    "path": "NewFoundLand/NFLND-Overlay-both.cs",
+    "size": 273,
+    "sha256": "52901867d462e5b7a4e924b87683dfdeeb5bbdeb385884c330545e2ae70a39d0"
+  },
+  {
+    "path": "NewFoundLand/NFLND-Overlay-both.exe",
+    "size": 20480,
+    "sha256": "8858ac653f4b1ece21783d930c40a06fb393f80a73e120b6d1c447d792276160"
+  },
+  {
+    "path": "NewFoundLand/NFLND-Overlay-both.py",
+    "size": 6510,
+    "sha256": "3fc7e6844fa32faf337544757f5897784bbf29275c7faca5d565ce35b5765069"
+  },
+  {
+    "path": "NewFoundLand/NFLND-Overlay-from1990.cs",
+    "size": 272,
+    "sha256": "7a9d9ef304f4d16f1d5056c0c499bd2304737c42f03067a63e0ad8fc510b8e7b"
+  },
+  {
+    "path": "NewFoundLand/NFLND-Overlay-from1990.exe",
+    "size": 20480,
+    "sha256": "62df0152815a47ed56b034063541cfe2b4613e5689d32134f7d9897f582a8b3b"
+  },
+  {
+    "path": "NewFoundLand/NFLND-Overlay-from1990.py",
+    "size": 5654,
+    "sha256": "6e1f3dae2fdc007f075ca92496e65223dd3f5aa448d879a0840585dcdd897052"
+  },
+  {
+    "path": "NewFoundLand/output/NFLND-Overlay-both-lastFive.png",
+    "size": 251717,
+    "sha256": "52170a604b0a3607029f6c7cb9b9485fc0e56b8a3edc949fe811cf358c51f059"
+  },
+  {
+    "path": "NewFoundLand/output/NFLND-Overlay-both-single.png",
+    "size": 226578,
+    "sha256": "9b596298e6e05e63e7272544b4af1b2e2ba86243f00d9083d8e47cae65d21e7b"
+  },
+  {
+    "path": "NewFoundLand/output/NFLND-Overlay-from1990-lastFive.png",
+    "size": 251717,
+    "sha256": "52170a604b0a3607029f6c7cb9b9485fc0e56b8a3edc949fe811cf358c51f059"
+  },
+  {
+    "path": "NewFoundLand/output/NFLND-Overlay-from1990-single.png",
+    "size": 226578,
+    "sha256": "9b596298e6e05e63e7272544b4af1b2e2ba86243f00d9083d8e47cae65d21e7b"
+  },
+  {
+    "path": "NewFoundLand/weekly_NE-NFLND.csv",
+    "size": 87715,
+    "sha256": "df86882eb85a34b89c063e76a849828aa10dac44ff3c1e44b6640235118e4693"
+  },
+  {
+    "path": "OtherCSharpSources/CombinedGreatLakesLegacy.cs",
+    "size": 12446,
+    "sha256": "8adc7d3e296b84c38e114624e029759ded05178cfebfa7331a1c51e2444dc2bb"
+  },
+  {
+    "path": "OtherCSharpSources/Erie-OverlayCharts.cs",
+    "size": 12450,
+    "sha256": "d4af235e52e8375067ab3306fa9955b3813b56ec119fbccdc72ff603019a1500"
+  },
+  {
+    "path": "OtherCSharpSources/Great_Lakes-OverlayCharts.cs",
+    "size": 12462,
+    "sha256": "251342d6d1e5fac436cf13a0f7e0929fd0b016e7bdf0b94d8dfcb961a1666e32"
+  },
+  {
+    "path": "OtherCSharpSources/GreatLakesCharts.cs",
+    "size": 17483,
+    "sha256": "81b13e589d9b044147755ffb54b695a1e5bc05c24bc1bf6c1efc30424f2c26a4"
+  },
+  {
+    "path": "OtherCSharpSources/Huron-OverlayCharts.cs",
+    "size": 12451,
+    "sha256": "3f1dd693cf2faa94a4ff0a5fcb9313a22387753f1d43c646c446cc1f6f2172bf"
+  },
+  {
+    "path": "OtherCSharpSources/Michigan-OverlayCharts.cs",
+    "size": 12466,
+    "sha256": "a7143309ecfb221897a5ef877c284ae3fbc6069e4df90e64cca17332cae5995b"
+  },
+  {
+    "path": "OtherCSharpSources/Ontario-OverlayCharts.cs",
+    "size": 12461,
+    "sha256": "a617f3d17680ef84dda81e7e2e891e65216bcc5578739031f9a557e042aa4526"
+  },
+  {
+    "path": "OtherCSharpSources/README.md",
+    "size": 320,
+    "sha256": "c4f5feadc4e7632e6a00eb5a5872c64ea473aa818b607d101aa70f93de588c63"
+  },
+  {
+    "path": "OtherCSharpSources/Superior-OverlayCharts.cs",
+    "size": 12470,
+    "sha256": "1583c3684dd9037493a7528fb96aa5054bb99975397d81e909b3bae628cc7aca"
+  },
+  {
+    "path": "PUBLISHING.md",
+    "size": 568,
+    "sha256": "0c2225b022091ab46187b392c14a661cd4d1957d0509226bf7ce910f2219c358"
+  },
+  {
+    "path": "PythonSources/generate_all_lake_charts.py",
+    "size": 9076,
+    "sha256": "6583b4c3346ee6ab9c4baf4d2693a26d364cc80f4486a5128a88790c50cd96f4"
+  },
+  {
+    "path": "PythonSources/great_lakes_charts.py",
+    "size": 7940,
+    "sha256": "3083969f87bba680804dafd63e6819a38add5c3d88fcebf11562095a55f9acb3"
+  },
+  {
+    "path": "PythonSources/Overlay_chart-GRTLKS-bilingual-3charts.py",
+    "size": 6072,
+    "sha256": "ef06b45d57d0b6223a4cf72ea82a2440855ec6f8f9d0b3bf06133d3295b57564"
+  },
+  {
+    "path": "PythonSources/README.md",
+    "size": 280,
+    "sha256": "8f55afe7e4eb68e36dbb9031ee87cd2f1ae372bfbc924ce9efb6f55675d5d9b6"
+  },
+  {
+    "path": "PythonSources/requirements.txt",
+    "size": 36,
+    "sha256": "67c4d6b5ef6b5be804f3611f418d46d67b8805f8cee07ed2c40fab0659965208"
+  },
+  {
+    "path": "README.md",
+    "size": 5631,
+    "sha256": "1ddc93f8e3c1e2bf1a49979edddd43b1a0e1fe207f102c194529a6914ffc2197"
+  },
+  {
+    "path": "Shared/OverlayCharts.cs",
+    "size": 14967,
+    "sha256": "c8a562cb8fe256bf14648e59c2a07c3174043d986690f1237de4fadae944bc9e"
+  },
+  {
+    "path": "SouthLabCoast/output/SLabCoast-Overlay-both-lastFive.png",
+    "size": 383932,
+    "sha256": "eb30e84eefa50a1aa5ba0aa87379bcb165fb4fe9e2527ba7f79ca936b556411d"
+  },
+  {
+    "path": "SouthLabCoast/output/SLabCoast-Overlay-both-single.png",
+    "size": 325478,
+    "sha256": "5bd9250f8174ec9f75f7834347a3a123a81b8d74ce6187ed7645e2c46658349d"
+  },
+  {
+    "path": "SouthLabCoast/output/SLabCoast-Overlay-from1990-lastFive.png",
+    "size": 383932,
+    "sha256": "eb30e84eefa50a1aa5ba0aa87379bcb165fb4fe9e2527ba7f79ca936b556411d"
+  },
+  {
+    "path": "SouthLabCoast/output/SLabCoast-Overlay-from1990-single.png",
+    "size": 325478,
+    "sha256": "5bd9250f8174ec9f75f7834347a3a123a81b8d74ce6187ed7645e2c46658349d"
+  },
+  {
+    "path": "SouthLabCoast/SLabCoast-Overlay-both.cs",
+    "size": 291,
+    "sha256": "4d3af5a0c7a2726af909ac9e704006fbae297ad62d18e01654731c50e2979c26"
+  },
+  {
+    "path": "SouthLabCoast/SLabCoast-Overlay-both.exe",
+    "size": 20480,
+    "sha256": "83e4335bf50d80f4acb146c34213510067b6857b7d99e95cadff6dc79fe7ef60"
+  },
+  {
+    "path": "SouthLabCoast/SLabCoast-Overlay-both.py",
+    "size": 6528,
+    "sha256": "19edd097bef13afeffbf8b9506d6824946e5d4af99c44e479fa2d1c88fb1c87e"
+  },
+  {
+    "path": "SouthLabCoast/SLabCoast-Overlay-from1990.cs",
+    "size": 290,
+    "sha256": "320005294400f8608cadbfc0616176c5c7839c49a4669f4e69be1ff71aa47bb0"
+  },
+  {
+    "path": "SouthLabCoast/SLabCoast-Overlay-from1990.exe",
+    "size": 20480,
+    "sha256": "36e977d93ec20b807856771ee1bb00513b595b600faecabc3578e38c50faa2b3"
+  },
+  {
+    "path": "SouthLabCoast/SLabCoast-Overlay-from1990.py",
+    "size": 5672,
+    "sha256": "7080159e905c779e292076810dd09578c61dcfeb731692a1aa3bd6d3019d9f85"
+  },
+  {
+    "path": "SouthLabCoast/weekly-SLab-Coast-1970-2026.csv",
+    "size": 106275,
+    "sha256": "45d8f8343a26bc59d1220bb9521c60067993d0feb022243b5ab33ff041ec6383"
+  }
+]

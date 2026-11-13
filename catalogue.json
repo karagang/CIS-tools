@@ -2,31 +2,202 @@
   {
     "region": "Gulf of St. Lawrence",
     "stem": "gulf-Overlay-both",
-    "page": "programs/gulf-overlay-both.html"
+    "page": "programs/gulf-overlay-both.html",
+    "language": "C#",
+    "description": "Latest-season and recent-season ice overlays. Choose a starting season and cutoff date.",
+    "image": "gulf-Overlay-both-single"
   },
   {
     "region": "Gulf of St. Lawrence",
     "stem": "gulf-Overlay-from1990",
-    "page": "programs/gulf-overlay-from1990.html"
+    "page": "programs/gulf-overlay-from1990.html",
+    "language": "C#",
+    "description": "Latest-season and recent-season ice overlays. No prompts: 1990/91 onward.",
+    "image": "gulf-Overlay-from1990-single"
   },
   {
     "region": "NE Newfoundland",
     "stem": "NFLND-Overlay-both",
-    "page": "programs/nflnd-overlay-both.html"
+    "page": "programs/nflnd-overlay-both.html",
+    "language": "C#",
+    "description": "Latest-season and recent-season ice overlays. Choose a starting season and cutoff date.",
+    "image": "NFLND-Overlay-both-single"
   },
   {
     "region": "NE Newfoundland",
     "stem": "NFLND-Overlay-from1990",
-    "page": "programs/nflnd-overlay-from1990.html"
+    "page": "programs/nflnd-overlay-from1990.html",
+    "language": "C#",
+    "description": "Latest-season and recent-season ice overlays. No prompts: 1990/91 onward.",
+    "image": "NFLND-Overlay-from1990-single"
   },
   {
     "region": "South Labrador Coast",
     "stem": "SLabCoast-Overlay-both",
-    "page": "programs/slabcoast-overlay-both.html"
+    "page": "programs/slabcoast-overlay-both.html",
+    "language": "C#",
+    "description": "Latest-season and recent-season ice overlays. Choose a starting season and cutoff date.",
+    "image": "SLabCoast-Overlay-both-single"
   },
   {
     "region": "South Labrador Coast",
     "stem": "SLabCoast-Overlay-from1990",
-    "page": "programs/slabcoast-overlay-from1990.html"
+    "page": "programs/slabcoast-overlay-from1990.html",
+    "language": "C#",
+    "description": "Latest-season and recent-season ice overlays. No prompts: 1990/91 onward.",
+    "image": "SLabCoast-Overlay-from1990-single"
+  },
+  {
+    "region": "Gulf of St. Lawrence \u2014 choose a period",
+    "stem": "gulf-overlay-both-python",
+    "page": "programs/gulf-overlay-both-python.html",
+    "language": "Python",
+    "description": "Generate the latest-season and recent-season overlay charts with pandas and Matplotlib.",
+    "image": "gulf-Overlay-both-python-single",
+    "source": "Gulf/gulf-Overlay-both.py"
+  },
+  {
+    "region": "Gulf of St. Lawrence \u2014 from 1990/91",
+    "stem": "gulf-overlay-from1990-python",
+    "page": "programs/gulf-overlay-from1990-python.html",
+    "language": "Python",
+    "description": "Generate the latest-season and recent-season overlay charts with pandas and Matplotlib.",
+    "image": "gulf-Overlay-from1990-python-single",
+    "source": "Gulf/gulf-Overlay-from1990.py"
+  },
+  {
+    "region": "NE Newfoundland \u2014 choose a period",
+    "stem": "nflnd-overlay-both-python",
+    "page": "programs/nflnd-overlay-both-python.html",
+    "language": "Python",
+    "description": "Generate the latest-season and recent-season overlay charts with pandas and Matplotlib.",
+    "image": "NFLND-Overlay-both-python-single",
+    "source": "NewFoundLand/NFLND-Overlay-both.py"
+  },
+  {
+    "region": "NE Newfoundland \u2014 from 1990/91",
+    "stem": "nflnd-overlay-from1990-python",
+    "page": "programs/nflnd-overlay-from1990-python.html",
+    "language": "Python",
+    "description": "Generate the latest-season and recent-season overlay charts with pandas and Matplotlib.",
+    "image": "NFLND-Overlay-from1990-python-single",
+    "source": "NewFoundLand/NFLND-Overlay-from1990.py"
+  },
+  {
+    "region": "South Labrador Coast \u2014 choose a period",
+    "stem": "slabcoast-overlay-both-python",
+    "page": "programs/slabcoast-overlay-both-python.html",
+    "language": "Python",
+    "description": "Generate the latest-season and recent-season overlay charts with pandas and Matplotlib.",
+    "image": "SLabCoast-Overlay-both-python-single",
+    "source": "SouthLabCoast/SLabCoast-Overlay-both.py"
+  },
+  {
+    "region": "South Labrador Coast \u2014 from 1990/91",
+    "stem": "slabcoast-overlay-from1990-python",
+    "page": "programs/slabcoast-overlay-from1990-python.html",
+    "language": "Python",
+    "description": "Generate the latest-season and recent-season overlay charts with pandas and Matplotlib.",
+    "image": "SLabCoast-Overlay-from1990-python-single",
+    "source": "SouthLabCoast/SLabCoast-Overlay-from1990.py"
+  },
+  {
+    "region": "Lake Erie overlays",
+    "stem": "great-lakes-overlay-erie",
+    "page": "programs/great-lakes-overlay-erie.html",
+    "language": "C#",
+    "description": "Create bilingual, English, and French overlays showing recent ice seasons against the historical background and supplied average.",
+    "image": "great-lakes-overlay-erie",
+    "source": "OtherCSharpSources/Erie-OverlayCharts.cs"
+  },
+  {
+    "region": "Lake Ontario overlays",
+    "stem": "great-lakes-overlay-ontario",
+    "page": "programs/great-lakes-overlay-ontario.html",
+    "language": "C#",
+    "description": "Create bilingual, English, and French overlays showing recent ice seasons against the historical background and supplied average.",
+    "image": "great-lakes-overlay-ontario",
+    "source": "OtherCSharpSources/Ontario-OverlayCharts.cs"
+  },
+  {
+    "region": "Lake Superior overlays",
+    "stem": "great-lakes-overlay-superior",
+    "page": "programs/great-lakes-overlay-superior.html",
+    "language": "C#",
+    "description": "Create bilingual, English, and French overlays showing recent ice seasons against the historical background and supplied average.",
+    "image": "great-lakes-overlay-superior",
+    "source": "OtherCSharpSources/Superior-OverlayCharts.cs"
+  },
+  {
+    "region": "Lake Huron overlays",
+    "stem": "great-lakes-overlay-huron",
+    "page": "programs/great-lakes-overlay-huron.html",
+    "language": "C#",
+    "description": "Create bilingual, English, and French overlays showing recent ice seasons against the historical background and supplied average.",
+    "image": "great-lakes-overlay-huron",
+    "source": "OtherCSharpSources/Huron-OverlayCharts.cs"
+  },
+  {
+    "region": "Lake Michigan overlays",
+    "stem": "great-lakes-overlay-michigan",
+    "page": "programs/great-lakes-overlay-michigan.html",
+    "language": "C#",
+    "description": "Create bilingual, English, and French overlays showing recent ice seasons against the historical background and supplied average.",
+    "image": "great-lakes-overlay-michigan",
+    "source": "OtherCSharpSources/Michigan-OverlayCharts.cs"
+  },
+  {
+    "region": "Combined Great Lakes overlays",
+    "stem": "great-lakes-overlay-great_lakes",
+    "page": "programs/great-lakes-overlay-great_lakes.html",
+    "language": "C#",
+    "description": "Create bilingual, English, and French overlays showing recent ice seasons against the historical background and supplied average.",
+    "image": "great-lakes-overlay-great_lakes",
+    "source": "OtherCSharpSources/Great_Lakes-OverlayCharts.cs"
+  },
+  {
+    "region": "Great Lakes overlays \u2014 all six regions",
+    "stem": "great-lakes-overlays-python",
+    "page": "programs/great-lakes-overlays-python.html",
+    "language": "Python",
+    "description": "Generate English, French, and bilingual charts for Erie, Huron, Michigan, Ontario, Superior, and the combined basin: eighteen PNGs in one run.",
+    "image": "great-lakes-overlay-superior",
+    "source": "PythonSources/generate_all_lake_charts.py"
+  },
+  {
+    "region": "Great Lakes \u2014 twelve-chart batch",
+    "stem": "great-lakes-batch-csharp",
+    "page": "programs/great-lakes-batch-csharp.html",
+    "language": "C#",
+    "description": "Create single-season and two-season comparisons for all five Great Lakes and the combined basin.",
+    "image": "great-lakes-batch-csharp",
+    "source": "OtherCSharpSources/GreatLakesCharts.cs"
+  },
+  {
+    "region": "Great Lakes \u2014 twelve-chart batch",
+    "stem": "great-lakes-batch-python",
+    "page": "programs/great-lakes-batch-python.html",
+    "language": "Python",
+    "description": "Create single-season and two-season comparisons for all five Great Lakes and the combined basin.",
+    "image": "great-lakes-batch-python",
+    "source": "PythonSources/great_lakes_charts.py"
+  },
+  {
+    "region": "Combined Great Lakes \u2014 original three-chart generator",
+    "stem": "combined-great-lakes-legacy-csharp",
+    "page": "programs/combined-great-lakes-legacy-csharp.html",
+    "language": "C#",
+    "description": "The earlier combined-basin generator, retained alongside the later six-lake editions. Produces bilingual, English, and French overlay plots.",
+    "image": "great-lakes-overlay-great_lakes",
+    "source": "OtherCSharpSources/CombinedGreatLakesLegacy.cs"
+  },
+  {
+    "region": "Combined Great Lakes \u2014 original three-chart generator",
+    "stem": "combined-great-lakes-legacy-python",
+    "page": "programs/combined-great-lakes-legacy-python.html",
+    "language": "Python",
+    "description": "The earlier combined-basin generator, retained alongside the later six-lake editions. Produces bilingual, English, and French overlay plots.",
+    "image": "great-lakes-overlay-great_lakes",
+    "source": "PythonSources/Overlay_chart-GRTLKS-bilingual-3charts.py"
   }
 ]

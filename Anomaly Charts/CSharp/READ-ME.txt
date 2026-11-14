@@ -1,0 +1,57 @@
+REGIONAL ANOMALY CHARTS — WINDOWS
+
+Extract the entire ZIP to a writable folder, then double-click AnomalyCharts.exe.
+Keep the Data folder and AnomalyCharts.exe.config alongside the executable.
+No Python installation or internet connection is required to run the application.
+Requires Windows with .NET Framework 4.8 enabled (normally present on Windows 10/11).
+
+1. Choose the region.
+2. Use the supplied CSV or click Browse to select an updated CSV from any drive.
+3. Choose the start year, month and week, then click Generate charts and summary.
+4. View the chart and summary in the application, or click Open output folder.
+
+The start year is the first year included in the comparison. One selected
+month/week is compared across those years, ending with the latest available
+observation for that week. No end date is required.
+
+Weeks retain the original definitions:
+  1 = days 1–7; 2 = days 8–14; 3 = days 15–21; 4 = days 22–31.
+
+The default output location is an output subfolder beside the selected CSV.
+With the bundled data this is Data\<region>\output. You can choose another output
+folder. Anomaly filenames include the start year and latest selected observation.
+Rerunning the same selection replaces that selection's existing files.
+
+Each year's concentration is the mean of the observations for the selected
+month/week. The baseline is the median of those yearly means in the selected
+year range. Anomalies are percentage-point differences from that median.
+CSV concentration values must be fractions from 0 to 1. Required columns are
+DATE (YYYYMMDD) and Concentration; CSV column names are case-sensitive.
+Invalid dates/non-numeric concentrations are skipped and reported; values outside
+0–1 are rejected. Quoted fields and UTF-8 files are supported.
+
+For Northern Canadian Waters, the additional-output checkbox produces the four
+seasonal overlays and English/French climatology summaries. Area (positive km²)
+is also required in the first valid CSV row. Seasonal overlays include all
+observations from January 1 of the start year, within each seasonal window.
+The month/week controls anomaly and climatology comparisons. The October–January
+overlay retains Python's season assignment and January +365 day-of-year convention.
+PNG charts use native Windows rendering, so their appearance differs from Python;
+the calculations and selected observations follow the Python version.
+
+The supplied CSVs are snapshots. Replace them with newer data or browse to your
+latest files. Keep the chosen region consistent with the selected CSV.
+
+SOURCE AND REBUILDING
+This CSharp folder contains the executable, source, build.ps1, manifest,
+configuration and its own Data folder. Copy the entire folder to use it elsewhere.
+It has no dependency on the Python version or any files outside this folder.
+Run build.ps1 in PowerShell to rebuild the executable here using the Windows
+.NET Framework C# compiler. Rebuilding leaves the local CSVs untouched.
+No external NuGet packages are used.
+
+OPTIONAL BATCH MODE
+All arguments take a value. Supply full paths for CSV, output and JSON report:
+AnomalyCharts.exe --region "NE Newfoundland" --csv "C:\data\weekly_NE-NFLND.csv" --start-year 1991 --month 4 --week 3 --output "C:\data\output" --report "C:\data\result.json"
+For Northern extras, add: --northern-extras true
+Batch exit code is 0 for success, 1 for failure; --report includes the result/error.

@@ -6,13 +6,13 @@
   },
   {
     "path": "Build.ps1",
-    "size": 1207,
-    "sha256": "8d50500d1e9aefe97ea01fd877bae48239271a291ed9ba0794338e4b31c30f04"
+    "size": 1226,
+    "sha256": "2847900dca34ab7e0fdd72056ad86ae23c5b38d9101f0e5d371dd2974ce37bd2"
   },
   {
     "path": "catalogue.json",
-    "size": 9292,
-    "sha256": "f74fcf2c98367eca84a76041bc0d491afb5abd0e74825f6d5e40d88fa3580ea1"
+    "size": 15191,
+    "sha256": "281d86d9bdcf5eb0e76915aeb2889cbcb7171711a1906a3dedaa0b86183416de"
   },
   {
     "path": "docs/.nojekyll",
@@ -335,9 +335,19 @@
     "sha256": "4a415cbd7aff349b85db7c196e15c9054fedc1fba44f8609a46f4dc19405f5b6"
   },
   {
+    "path": "docs/programs/combined-great-lakes-legacy-csharp.md",
+    "size": 1696,
+    "sha256": "b9def759ab4e4742cd059f1aa74fa95445c084921262cf42bd50012b46c8dc92"
+  },
+  {
     "path": "docs/programs/combined-great-lakes-legacy-python.html",
     "size": 2910,
     "sha256": "74d31101f37516cc1e1fe7737b8903737bae8f4dfadaca759e5e8f001feaa77e"
+  },
+  {
+    "path": "docs/programs/combined-great-lakes-legacy-python.md",
+    "size": 1773,
+    "sha256": "d78e27bb04da568436523a10091b36f973e0f4433ae75ed9c995e606d139939d"
   },
   {
     "path": "docs/programs/great-lakes-batch-csharp.html",
@@ -345,9 +355,19 @@
     "sha256": "17029ec078a25b09585c39680ec0653ae91f63a8df7bdcf7c1213c4c6e8e726f"
   },
   {
+    "path": "docs/programs/great-lakes-batch-csharp.md",
+    "size": 1879,
+    "sha256": "9b5c5cbbdd74d2d6a32bb545d30c51c4ec076b39141dffc6ddb8a689d9b2ac48"
+  },
+  {
     "path": "docs/programs/great-lakes-batch-python.html",
     "size": 2984,
     "sha256": "8082c98a536d65da1fc91b7836bfdc727b0fd0c28aba007f2612175e82f06733"
+  },
+  {
+    "path": "docs/programs/great-lakes-batch-python.md",
+    "size": 1836,
+    "sha256": "22068e66aea56c698ecfa0faa6f2ca1c53b266808eeb530328969e9ecfe1e18b"
   },
   {
     "path": "docs/programs/great-lakes-overlay-erie.html",
@@ -355,9 +375,19 @@
     "sha256": "95395051c6e9d9f4804c20ba0caaacc05b3976a66d412b652240e0fcf4f5e40e"
   },
   {
+    "path": "docs/programs/great-lakes-overlay-erie.md",
+    "size": 1745,
+    "sha256": "78787b72785e7003b142bb61eece00631a1b048a8c11f97995b3fb8da9a8425e"
+  },
+  {
     "path": "docs/programs/great-lakes-overlay-great_lakes.html",
     "size": 2911,
     "sha256": "724e2d257f41840530cfc9c428269a3d7a67369029f234899fbff578a33bd634"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-great_lakes.md",
+    "size": 1802,
+    "sha256": "7f22711e503eb0765b5eaa1a04ae209a59a5ccdd306a76d7296d271a6e018f07"
   },
   {
     "path": "docs/programs/great-lakes-overlay-huron.html",
@@ -365,9 +395,19 @@
     "sha256": "a9c6d0b14e6ef7cbd614101ebc2f457e060a250251734e8b671688e0a977c461"
   },
   {
+    "path": "docs/programs/great-lakes-overlay-huron.md",
+    "size": 1752,
+    "sha256": "1b7ea81c59028e614535914c05b0e58f83893d9b5ec55e6f1b1b72dbc9def6b7"
+  },
+  {
     "path": "docs/programs/great-lakes-overlay-michigan.html",
     "size": 2875,
     "sha256": "ffd6de4f729e7e8f2db1d0bf6b427c54576aa844fee93c9fc277452bbc8bfbca"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-michigan.md",
+    "size": 1773,
+    "sha256": "e8b93625f3bf0e1f6d9e9b9c15c1585c9e07b337c9c03d20c202bd21a0bc1a81"
   },
   {
     "path": "docs/programs/great-lakes-overlay-ontario.html",
@@ -375,9 +415,19 @@
     "sha256": "5e4224e7ccb72dd8ca2b7ae516817caa4795abef5a95977b409d0890753baf5b"
   },
   {
+    "path": "docs/programs/great-lakes-overlay-ontario.md",
+    "size": 1766,
+    "sha256": "0884b83756e7c2ac5996079ee09acb6b01423b5dd6c1bafdbec2c142b83e236c"
+  },
+  {
     "path": "docs/programs/great-lakes-overlay-superior.html",
     "size": 2875,
     "sha256": "51c31bbb425e6c162473772643645e26e0a2f66dd65142a90eb91730d19724fd"
+  },
+  {
+    "path": "docs/programs/great-lakes-overlay-superior.md",
+    "size": 1773,
+    "sha256": "a7dc7ec7a72034251e7b549a357423fb3cd00821f7034f09351a8bd52846499e"
   },
   {
     "path": "docs/programs/great-lakes-overlays-python.html",
@@ -385,9 +435,19 @@
     "sha256": "51ec165a5682a520fd51c53c8dc4844d75acf9190529ad0d0cd8f91aff047c7a"
   },
   {
+    "path": "docs/programs/great-lakes-overlays-python.md",
+    "size": 1743,
+    "sha256": "8f3c1d6e16ebb4e06205f188bed5e583b2a64aaa0d0edc8241beae2812f21fa1"
+  },
+  {
     "path": "docs/programs/gulf-overlay-both-python.html",
     "size": 2864,
     "sha256": "8f8296b8e29d75385786e4608dbc2c64d29f230a2a99c6411aff2bc50ee149c1"
+  },
+  {
+    "path": "docs/programs/gulf-overlay-both-python.md",
+    "size": 1754,
+    "sha256": "5fa2d3fd764e132e4348f52221038592146ba762ef62e78c24b2254a2a6c212f"
   },
   {
     "path": "docs/programs/gulf-overlay-both.html",
@@ -395,9 +455,19 @@
     "sha256": "1fa5b14f8deccfc035ad9f149339648c8ae121efe42a65d4f4471852c0460c94"
   },
   {
+    "path": "docs/programs/gulf-overlay-both.md",
+    "size": 3319,
+    "sha256": "bd9be2ca0300c551005bf20de791311d838cbd63ac96bd34affa0d552a289340"
+  },
+  {
     "path": "docs/programs/gulf-overlay-from1990-python.html",
     "size": 2845,
     "sha256": "d15b426445ce0a65a6ffe73893c4761fb2acdca326901b3aa5fee801804d3232"
+  },
+  {
+    "path": "docs/programs/gulf-overlay-from1990-python.md",
+    "size": 1738,
+    "sha256": "aaf8ce571fcb70bfaee7899fafe3bb7105b053899f5e69469854ae2c771d11d5"
   },
   {
     "path": "docs/programs/gulf-overlay-from1990.html",
@@ -405,9 +475,19 @@
     "sha256": "3772878c475c428e4efcdb4435c9a0925607ba0b443d00b865bc04565ac1b705"
   },
   {
+    "path": "docs/programs/gulf-overlay-from1990.md",
+    "size": 3238,
+    "sha256": "40be593aa6ea35982260756469c40f3abf7c86976b1acbd6c9eb49745690e0e1"
+  },
+  {
     "path": "docs/programs/nflnd-overlay-both-python.html",
     "size": 2870,
     "sha256": "0a367c68e7b66e7b85294d4af46fbcc790e9756726ece29fbb7778672e33cbe4"
+  },
+  {
+    "path": "docs/programs/nflnd-overlay-both-python.md",
+    "size": 1765,
+    "sha256": "453dff19601245c89c17d41d75a0d6882d7ce45668b33a4e4d53eb59d73389b9"
   },
   {
     "path": "docs/programs/nflnd-overlay-both.html",
@@ -415,9 +495,19 @@
     "sha256": "0dacbf069195181321e9f7354a6aff5d75d8adee61dc058f24f9a08bf8a220f9"
   },
   {
+    "path": "docs/programs/nflnd-overlay-both.md",
+    "size": 3355,
+    "sha256": "b89bebf555a096080b319f342f86f2e1973f5ff635d3bf6bc80cb1695e915995"
+  },
+  {
     "path": "docs/programs/nflnd-overlay-from1990-python.html",
     "size": 2851,
     "sha256": "a00642dd7008fe2a9658905564700f80e3b8404b611d41691492b11494cf297b"
+  },
+  {
+    "path": "docs/programs/nflnd-overlay-from1990-python.md",
+    "size": 1749,
+    "sha256": "8bea556d8e2f423b4a49711f9c14d9a5bef605c0c1ec4177ae3a4a3a1bdc8921"
   },
   {
     "path": "docs/programs/nflnd-overlay-from1990.html",
@@ -425,9 +515,19 @@
     "sha256": "7c144b89bb490e82fe695ab7984a3e106622ff4463930e029d409e2ce43b82ae"
   },
   {
+    "path": "docs/programs/nflnd-overlay-from1990.md",
+    "size": 3274,
+    "sha256": "41868a8d5853722b42466754e9a2d5f9d60175344a6f96bd89c1650f8e8a37e8"
+  },
+  {
     "path": "docs/programs/slabcoast-overlay-both-python.html",
     "size": 2907,
     "sha256": "bfbcd95ea7749a89724cfd711f12d6e0b6a5fe1c7defcf31aa345e0a040f6fd7"
+  },
+  {
+    "path": "docs/programs/slabcoast-overlay-both-python.md",
+    "size": 1797,
+    "sha256": "debd5a26ffbca42e17e07da3c6155701bfab25af8ea88ff2b3b2935ffc47dc47"
   },
   {
     "path": "docs/programs/slabcoast-overlay-both.html",
@@ -435,14 +535,34 @@
     "sha256": "0f059259ee68594ba2ca2b348ad19168cb0733c9780dc297356ded8c024245f3"
   },
   {
+    "path": "docs/programs/slabcoast-overlay-both.md",
+    "size": 3437,
+    "sha256": "22ada15664b3eb9cc08271fd7c02b6b6a6860abb8ee577e1a0e0bec48a77c226"
+  },
+  {
     "path": "docs/programs/slabcoast-overlay-from1990-python.html",
     "size": 2888,
     "sha256": "9e0284b9b01f972e570e8c8570e5543277d9501a870b73ad1248c5a7e0338fd6"
   },
   {
+    "path": "docs/programs/slabcoast-overlay-from1990-python.md",
+    "size": 1781,
+    "sha256": "1eab05f2695834ede6d268fb9c1e46a1f2c9a8844759adea1fd1f0d8fae21980"
+  },
+  {
     "path": "docs/programs/slabcoast-overlay-from1990.html",
     "size": 5221,
     "sha256": "e72b63ce6aa9adfbe585023e155dd6674c9d5c156108a9c76676c12c6a27ff6d"
+  },
+  {
+    "path": "docs/programs/slabcoast-overlay-from1990.md",
+    "size": 3356,
+    "sha256": "65ab5a7c3f4a1f45f564f8551c7e29d99aebee394bc773bc48bc76a43b3285df"
+  },
+  {
+    "path": "docs/README.md",
+    "size": 14492,
+    "sha256": "ec2ec26df9a1b70e8f5895be08516c15575800380e518f6f829b1f3408f33d49"
   },
   {
     "path": "east-coast-python-requirements.txt",
@@ -566,8 +686,8 @@
   },
   {
     "path": "OtherCSharpSources/CombinedGreatLakesLegacy.cs",
-    "size": 12446,
-    "sha256": "8adc7d3e296b84c38e114624e029759ded05178cfebfa7331a1c51e2444dc2bb"
+    "size": 12679,
+    "sha256": "471b396570c56a51df9be13324ea55875343e990db86d3287521b6db90bd40ef"
   },
   {
     "path": "OtherCSharpSources/Erie-OverlayCharts.cs",
@@ -581,8 +701,8 @@
   },
   {
     "path": "OtherCSharpSources/GreatLakesCharts.cs",
-    "size": 17483,
-    "sha256": "81b13e589d9b044147755ffb54b695a1e5bc05c24bc1bf6c1efc30424f2c26a4"
+    "size": 17791,
+    "sha256": "8d6173e4b4e55288241bb00e91256d121743c9cffa42bd3d343e0f6a056d0484"
   },
   {
     "path": "OtherCSharpSources/Huron-OverlayCharts.cs",
@@ -611,8 +731,8 @@
   },
   {
     "path": "PUBLISHING.md",
-    "size": 928,
-    "sha256": "45db90d2f9333aeb889720210fe2c3646fd90c5b47aa61ed54ad99815b12b069"
+    "size": 1222,
+    "sha256": "4853305534df9fd7e0b4869d2a871271cc59b406fad931300f2e750684381bb0"
   },
   {
     "path": "PythonSources/generate_all_lake_charts.py",
@@ -621,13 +741,13 @@
   },
   {
     "path": "PythonSources/great_lakes_charts.py",
-    "size": 7940,
-    "sha256": "3083969f87bba680804dafd63e6819a38add5c3d88fcebf11562095a55f9acb3"
+    "size": 8121,
+    "sha256": "8891bbe538e98f83ac0e4752d629cdc5d2d54d1bfec88c3b3ffd2562a680c7a1"
   },
   {
     "path": "PythonSources/Overlay_chart-GRTLKS-bilingual-3charts.py",
-    "size": 6072,
-    "sha256": "ef06b45d57d0b6223a4cf72ea82a2440855ec6f8f9d0b3bf06133d3295b57564"
+    "size": 6211,
+    "sha256": "d601db62d4feb21df1e1266f5dcc2ee4a955678adb840072a4a97faca354dae1"
   },
   {
     "path": "PythonSources/README.md",
@@ -641,13 +761,13 @@
   },
   {
     "path": "README.md",
-    "size": 6430,
-    "sha256": "d54e0c467a153b336a0f60a9781d32c886e54239224720a9b95e69724b412b59"
+    "size": 9382,
+    "sha256": "aebca7cecaf64a82b7cae19aba04611d6f35d3649c3030f60b4589f382874ab8"
   },
   {
     "path": "Shared/OverlayCharts.cs",
-    "size": 14967,
-    "sha256": "c8a562cb8fe256bf14648e59c2a07c3174043d986690f1237de4fadae944bc9e"
+    "size": 15253,
+    "sha256": "aa115e8b8b68fd4ff5b6ae886f3c54393f23ca76e0bd6deed749e957e5ffb7f9"
   },
   {
     "path": "SouthLabCoast/output/SLabCoast-Overlay-both-lastFive.png",
@@ -703,5 +823,10 @@
     "path": "SouthLabCoast/weekly-SLab-Coast-1970-2026.csv",
     "size": 106275,
     "sha256": "45d8f8343a26bc59d1220bb9521c60067993d0feb022243b5ab33ff041ec6383"
+  },
+  {
+    "path": "tools/rebuild_catalogue.py",
+    "size": 11335,
+    "sha256": "b5bfe52db4f8ce6c43e625282f88da502e735679c0d6015649cd615850faefb5"
   }
 ]

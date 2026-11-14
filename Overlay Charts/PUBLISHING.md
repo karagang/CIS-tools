@@ -1,18 +1,25 @@
 # Overlay Charts catalogue
 
-The static catalogue, plot previews, program pages, and complete downloads are
-under `Overlay Charts/docs` in CIS-tools. Download the repository and open
-`Overlay Charts/docs/index.html` to browse the catalogue locally.
+The main catalogue is [docs/README.md](docs/README.md). It renders directly on
+GitHub with chart previews, source-code links, complete downloads, and individual
+Markdown guides. It needs no separately hosted website or GitHub Pages setup.
+The former standalone site has been retired.
 
-The earlier published catalogue remains at
-https://karagang.github.io/east-coast-ice-charts/ . This migration does not change
-that existing GitHub Pages configuration. Source links in the migrated catalogue
-point to the new CIS-tools folder.
+The original HTML catalogue is also preserved in `docs/index.html`. Download the
+repository and open that file to browse the HTML catalogue offline. Its relative
+image, guide, and download links are preserved, and source links point to CIS-tools.
 
-To publish this folder separately in future, deploy the contents of
-`Overlay Charts/docs` as the site's document root. The previous instruction to
-publish the repository's `/docs` folder applies to the old repository layout.
+After editing the HTML program guides, run:
 
-CSV data and example charts are snapshots. Regenerate outputs, thumbnails and
+```powershell
+python tools/rebuild_catalogue.py
+```
+
+This rebuilds the main README catalogue, `docs/README.md`, individual Markdown
+guides, catalogue metadata, and the SHA-256 package manifest. It does not change
+program source, executables, CSV inputs, ZIP packages, or plot images.
+
+CSV data and example charts are snapshots. Regenerate outputs, thumbnails, and
 download packages when programs or inputs change. Complete ZIPs preserve each
-program's runtime and build layout.
+program's runtime and build layout. If a hosted HTML site is wanted later, deploy
+the contents of `Overlay Charts/docs` as the site's document root.

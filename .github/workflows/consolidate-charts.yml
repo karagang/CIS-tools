@@ -17,7 +17,7 @@ jobs:
       - name: Migrate and verify both chart projects
         env:
           SOURCE_COMMIT: d065a9bcb2d970e7c22010724a8a32c5f228483e
-          PAYLOAD_SHA256: 0807b279c872dc3ad20db3ff48cae8870f32474fa814889351fc1efbec6f7a3a
+          PAYLOAD_SHA256: e9b2ec4484ad6aa0570d89605229ed195c5d25e05fd4d4bdda724dedca610614
         shell: bash
         run: |
           git fetch --no-tags https://github.com/karagang/east-coast-ice-charts.git "$SOURCE_COMMIT"

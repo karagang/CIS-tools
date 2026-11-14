@@ -5,6 +5,26 @@ and a standalone C# Windows application. Select a start year, month, and week to
 compare that same weekly period across years through the latest available data.
 The program saves a PNG chart and a text summary naming the region.
 
+## Example outputs
+
+The programs turn the selected month/week into a year-by-year anomaly chart.
+Blue bars indicate concentrations above the selected-years median; red bars
+indicate concentrations below it. Values are percentage-point differences.
+
+| Gulf of St Lawrence — C# | NE Newfoundland — C# |
+| --- | --- |
+| ![Gulf of St Lawrence weekly anomaly chart](docs/images/gulf-anomaly.png) | ![NE Newfoundland weekly anomaly chart](docs/images/newfoundland-anomaly.png) |
+| South Labrador Coast — Python | Western Arctic — Python |
+| ![South Labrador Coast weekly anomaly chart](docs/images/labrador-anomaly.png) | ![Western Arctic weekly anomaly chart](docs/images/western-anomaly.png) |
+| Northern Canadian Waters — C# | Northern seasonal overlay — C# |
+| ![Northern Canadian Waters weekly anomaly chart](docs/images/northern-anomaly.png) | ![Northern Canadian Waters July–December overlay](docs/images/northern-overlay.png) |
+
+Click an image for its full-size PNG. Anomaly examples use start year 1991 and
+the third week of April. Gulf and Northern examples end in 2025; Newfoundland,
+South Labrador and Western examples end in 2026. The Northern overlay ends
+December 18, 2025. These are saved examples from the supplied CSV snapshots;
+they do not update automatically. C# and Python use different rendering styles.
+
 ## Choose a version
 
 | Version | Best for | Requirements |

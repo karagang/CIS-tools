@@ -1,0 +1,5 @@
+There is no data file for the Canadian Arctic that includes both the Western Arctic and the Eastern Arctic, the CIS data currently only has an Eastern arctic, a Western Arctic and a Northern Canadian Waters which includes Hudson Bay.
+Therefore we have a program create_CDN-Arctic-CSV.py that Creates Canadian Arctic CSV by combining Western_Arctic.csv and Eastern_Arctic.csv to produce a new CSV file called Canadian_Arctic.csv.
+
+The new data file Canadian_Arctic.csv is used to create the overlay charts for the Canadian Arctic Combined Eastern Arctic and Western Arctic. 
+CanadianArctic-3Plots-zoomed2.py is the program that uses the Canadian_Arctic.csv data file that produces the plots. The program also produces a text file that is a climatology.

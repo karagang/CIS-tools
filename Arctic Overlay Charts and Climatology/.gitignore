@@ -1,0 +1,6 @@
+**/output/
+**/__pycache__/
+*.pyc
+CSharp/Test-Analysis.exe
+CSharp/batch-error.txt
+CSharp/result.json

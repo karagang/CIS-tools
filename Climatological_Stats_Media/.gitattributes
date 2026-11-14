@@ -1,0 +1,6 @@
+* text=auto
+*.exe binary
+*.zip binary
+CSharp/Source/Assets/* -whitespace linguist-vendored
+CSharp/THIRD_PARTY_NOTICES.txt -whitespace
+*.csv -whitespace

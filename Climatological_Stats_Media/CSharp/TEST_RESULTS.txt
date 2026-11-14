@@ -1,0 +1,37 @@
+PASS: 33 checks; all 16 source CSVs, every applicable mode, and chart statistics match the Python implementation.
+PASS real CSV / all modes / Python parity: Erie/erie.csv
+PASS real CSV / all modes / Python parity: Erie/erie_with_average.csv
+PASS real CSV / all modes / Python parity: GRTLKS/bas_with_average.csv
+PASS real CSV / all modes / Python parity: GRTLKS/combined.csv
+PASS real CSV / all modes / Python parity: Gulf of St Lawrence/weeklyGulf-seasons-1969-2025.csv
+PASS real CSV / all modes / Python parity: Gulf of St Lawrence/weeklyGulf.csv
+PASS real CSV / all modes / Python parity: Huron/huron.csv
+PASS real CSV / all modes / Python parity: Huron/huron_with_average.csv
+PASS real CSV / all modes / Python parity: Michigan/michigan.csv
+PASS real CSV / all modes / Python parity: Michigan/michigan_with_average.csv
+PASS real CSV / all modes / Python parity: NE Newfoundland/weekly_NE-NFLND.csv
+PASS real CSV / all modes / Python parity: Ontario/ontario.csv
+PASS real CSV / all modes / Python parity: Ontario/ontario_with_average.csv
+PASS real CSV / all modes / Python parity: South Labrador Coast/weekly-SLab-Coast-1970-2025.csv
+PASS real CSV / all modes / Python parity: Superior/superior.csv
+PASS real CSV / all modes / Python parity: Superior/superior_with_average.csv
+PASS synthetic / Python parity: daily ties & leap.csv
+PASS synthetic / Python parity: cutoff ties.csv
+PASS synthetic / Python parity: bottom zeros.csv
+PASS synthetic / Python parity: weekly multi-bin.csv
+PASS repeated run preserves existing reports
+PASS relative CSV and output paths independent of working directory
+PASS interactive daily/weekly menus, defaults, and invalid-input retries
+PASS rejects out of range
+PASS rejects invalid number
+PASS rejects duplicate observation
+PASS rejects wrong field count
+PASS rejects weekly wrong units
+PASS rejects wrong season
+PASS rejects sorted export
+PASS rejects malformed quote
+PASS rejects invalid year range, daily monthly mode, and unknown mode
+PASS standalone copied EXE with no Python/.NET on PATH and empty DOTNET_ROOT
+
+PASS offline browser check: daily and weekly HTML graphs render with networking disabled; hover, zoom, and reset work; no JavaScript errors.
+PASS visual review: graph labels, layout, and source footer checked.

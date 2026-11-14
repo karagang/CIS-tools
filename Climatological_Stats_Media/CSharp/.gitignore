@@ -1,0 +1,5 @@
+Source/bin/
+Source/obj/
+publish/
+output/
+*.zip

@@ -1,0 +1,2 @@
+# Needed only for the HTML graph scripts; text reports use the standard library.
+plotly==7.1.0

@@ -1,0 +1,5 @@
+from pathlib import Path
+from ice_reports import main
+
+if __name__ == '__main__':
+    main('climatology', Path(__file__).resolve().parent)

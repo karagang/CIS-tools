@@ -43,10 +43,10 @@ CIS-tools/
     ├── Gulf/
     ├── NewFoundLand/
     ├── SouthLabCoast/
+    ├── Great Lakes/
     ├── Shared/
     ├── PythonSources/
     └── docs/downloads/
 ```
 
-`Overlay Charts` was migrated from `karagang/east-coast-ice-charts`. Its original programs and download packages are retained under the new descriptive folder name.
 

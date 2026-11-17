@@ -28,6 +28,7 @@ def run(mode, year, region=REGION, csv='bas_with_average.csv'):
     # Keep the report intact except for replacing the machine-specific source path.
     source = region / csv
     content = result.read_text(encoding='utf-8').replace(str(source.resolve()), source.relative_to(ROOT).as_posix())
+    content = '\n'.join(line.rstrip() for line in content.split('\n'))
     start = 1973 if region == REGION else 1970
     destination = HERE / f'{source.stem}_{mode}_{year}_from_{start}{result.suffix}'
     destination.write_text(content, encoding='utf-8')

@@ -1,0 +1,162 @@
+{
+  "result": "PASS",
+  "target": "Windows x64, self-contained single-file .NET 10",
+  "sourceLevelChecks": 12,
+  "pythonParityCases": 12,
+  "parityPngFilesVerified": 96,
+  "additionalRelocatedStandaloneRuns": 6,
+  "additionalRelocatedPngFiles": 48,
+  "defaultPngFilesDelivered": 48,
+  "checks": [
+    "CSV files are byte-for-byte copies",
+    "Historical year filtering",
+    "Current year",
+    "All annual maxima",
+    "All daily means (1e-12 tolerance)",
+    "Recent/heavier/lighter year selection and fallback",
+    "PNG filenames, language sets, dimensions and 150 DPI",
+    "No PNGs alongside executables",
+    "Invalid start year returns exit code 1",
+    "Relocated EXE and CSV only; no Python/dotnet in PATH"
+  ],
+  "lakes": [
+    {
+      "lake": "combined_GRTLKS",
+      "cases": [
+        {
+          "startYear": 1973,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 54,
+          "chartCount": 8,
+          "result": "PASS"
+        },
+        {
+          "startYear": 2000,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 27,
+          "chartCount": 8,
+          "result": "PASS"
+        }
+      ],
+      "relocatedExeAndCsvOnly": "PASS",
+      "invalidStartYear": "PASS",
+      "csvSha256": "029da65dd784c3ad6ab732554bd3151f39cd28a646f77e185e66b612c0759c6d",
+      "exeSha256": "aefa740fb5dc1ead13dbfd42b0a7e4ff6764f80d01241d8ee97571891c50908d"
+    },
+    {
+      "lake": "Erie",
+      "cases": [
+        {
+          "startYear": 1973,
+          "dailyAveragesCompared": 207,
+          "annualMaximaCompared": 54,
+          "chartCount": 8,
+          "result": "PASS"
+        },
+        {
+          "startYear": 2000,
+          "dailyAveragesCompared": 207,
+          "annualMaximaCompared": 27,
+          "chartCount": 8,
+          "result": "PASS"
+        }
+      ],
+      "relocatedExeAndCsvOnly": "PASS",
+      "invalidStartYear": "PASS",
+      "csvSha256": "e2d2120d62eb2aacd0ffc8ca5af42ed017a9bc2fb52062244a2567e55bdeebd3",
+      "exeSha256": "b73f1ad5ed33ace4eb6a697a43f451b178a644bef461318dccfba84cf653a558"
+    },
+    {
+      "lake": "Huron",
+      "cases": [
+        {
+          "startYear": 1973,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 54,
+          "chartCount": 8,
+          "result": "PASS"
+        },
+        {
+          "startYear": 2000,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 27,
+          "chartCount": 8,
+          "result": "PASS"
+        }
+      ],
+      "relocatedExeAndCsvOnly": "PASS",
+      "invalidStartYear": "PASS",
+      "csvSha256": "8f807c9adf8db3023bb651802d14772eb6e5f9b6e5209019ed1a37693aa8ace0",
+      "exeSha256": "2769cefc7070fea31aa57b0860a3aabe733ed794f641a0485475224baffeeaa7"
+    },
+    {
+      "lake": "Michigan",
+      "cases": [
+        {
+          "startYear": 1973,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 54,
+          "chartCount": 8,
+          "result": "PASS"
+        },
+        {
+          "startYear": 2000,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 27,
+          "chartCount": 8,
+          "result": "PASS"
+        }
+      ],
+      "relocatedExeAndCsvOnly": "PASS",
+      "invalidStartYear": "PASS",
+      "csvSha256": "79242ec60747a24d0bb67ac85daf8a029eab7fafd76f35032fe521652af6e39a",
+      "exeSha256": "30eb207e6d7b598d70b0b9110016e5948c1b827fff5312b5d7a2ff93d2d77ae7"
+    },
+    {
+      "lake": "Ontario",
+      "cases": [
+        {
+          "startYear": 1973,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 54,
+          "chartCount": 8,
+          "result": "PASS"
+        },
+        {
+          "startYear": 2000,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 27,
+          "chartCount": 8,
+          "result": "PASS"
+        }
+      ],
+      "relocatedExeAndCsvOnly": "PASS",
+      "invalidStartYear": "PASS",
+      "csvSha256": "48e6bd669e260ede562c9430c3c4a877488db929fe671cbd2b8e354a14e3664f",
+      "exeSha256": "3a23b7a27595b1bc7918fabae3302eab97961e897454931cb8013a22bbcf9aa4"
+    },
+    {
+      "lake": "Superior",
+      "cases": [
+        {
+          "startYear": 1973,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 54,
+          "chartCount": 8,
+          "result": "PASS"
+        },
+        {
+          "startYear": 2000,
+          "dailyAveragesCompared": 208,
+          "annualMaximaCompared": 27,
+          "chartCount": 8,
+          "result": "PASS"
+        }
+      ],
+      "relocatedExeAndCsvOnly": "PASS",
+      "invalidStartYear": "PASS",
+      "csvSha256": "76e7b5745a888bf00892931fbcd256cb88a17031b3aa6d6199c4204df737b770",
+      "exeSha256": "014be21e9982cb837090c8cd14f215567bd0c7b49b61c200b2c02568102c8070"
+    }
+  ]
+}

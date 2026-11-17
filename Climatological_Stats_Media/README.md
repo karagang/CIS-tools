@@ -2,7 +2,28 @@
 
 Daily and weekly ice concentration rankings, seasonal maxima, and interactive HTML graphs for the Great Lakes and East Coast regions. Choose a CSV file and comparison years when you run a program.
 
-[Sample outputs](#see-what-the-programs-produce) · [Downloads](#downloads) · [Windows quick start](#windows-quick-start) · [Python quick start](#python-quick-start)
+[Seasonal ice charts](Seasonal_Ice_Charts/) · [Sample report outputs](#see-what-the-programs-produce) · [Report downloads](#downloads) · [Windows quick start](#windows-quick-start) · [Python quick start](#python-quick-start)
+
+## Seasonal ice coverage charts — Python and standalone Windows
+
+The [Great Lakes Seasonal Ice Charts section](Seasonal_Ice_Charts/) adds six programs covering **Erie, Huron, Michigan, Ontario, Superior, and the combined Great Lakes**. Choose a historical start year to compare the latest CSV year with recent, heavier, and lighter years and a calculated average. Each program produces **eight PNG files: four in English and four in French**, saved in its own `output` folder.
+
+<table>
+<thead><tr><th>Python output</th><th>Standalone C# output</th></tr></thead>
+<tbody><tr>
+<td><a href="Seasonal_Ice_Charts/Python/combined_GRTLKS/output/Great_LakesIce_2026_Combined_EN.png"><img src="Seasonal_Ice_Charts/examples/python-combined-en-thumb.png" width="320" alt="Python combined Great Lakes chart showing recent, heavier, and lighter seasons, 2026 in red, and the historical average in green"></a></td>
+<td><a href="Seasonal_Ice_Charts/CSharp/combined_GRTLKS/output/Great_LakesIce_2026_Combined_EN.png"><img src="Seasonal_Ice_Charts/examples/csharp-combined-en-thumb.png" width="320" alt="Native C# combined Great Lakes seasonal ice coverage chart with the same three comparisons"></a></td>
+</tr></tbody>
+</table>
+
+Examples use the supplied 1973–2026 snapshots, comparing 2026 with historical years starting in 1973. Click either thumbnail for the full image.
+
+- **Windows users:** [download the six standalone C# applications](https://github.com/karagang/CIS-tools/releases/download/great-lakes-seasonal-ice-charts-v1.0.0/Great_Lakes_Climatology_Charts_CSharp_Windows_x64.zip), extract the ZIP, open a lake folder, and double-click its `*_IceCharts.exe`. No Python or separate .NET installation is needed.
+- **Python users:** [download the Python programs and CSVs](https://github.com/karagang/CIS-tools/releases/download/great-lakes-seasonal-ice-charts-v1.0.0/Great_Lakes_Climatology_Charts_Python.zip), install the included requirements, and run the desired lake's script.
+
+[Full gallery, French examples, downloads, and usage instructions](Seasonal_Ice_Charts/) · [Python source](Seasonal_Ice_Charts/Python/) · [C# source and build guide](Seasonal_Ice_Charts/CSharp/)
+
+These charts are separate from the ranking and text/HTML report programs below. Chart runs replace PNG files with matching names; save copies first to keep multiple start-year comparisons.
 
 ## See what the programs produce
 
@@ -124,6 +145,7 @@ To rebuild the C# executable, install the .NET 10 SDK and run [CSharp/BUILD.ps1]
 
 ```text
 Climatological_Stats_Media/
+├── Seasonal_Ice_Charts/    Bilingual seasonal PNG charts, Python and C# source, CSVs, previews
 ├── Python/                 Regional scripts, CSV snapshots, and guides
 ├── CSharp/                 Executable, complete source, and build scripts
 ├── Python.zip              Python scripts and CSV snapshots

@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+**/bin/
+**/obj/
+*.exe
+*.zip
+# The parent section ignores generated output. These PNGs are published examples.
+!**/output/
+!**/output/*.png

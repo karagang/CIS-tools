@@ -1,0 +1,8 @@
+*.csv -text -whitespace
+*.png binary
+*.py text eol=lf -whitespace
+*.cs text eol=lf
+*.csproj text eol=lf
+*.md text eol=lf
+CSharp/*/DOTNET-LICENSE.txt -text -whitespace
+CSharp/*/THIRD-PARTY-NOTICES.txt -text -whitespace

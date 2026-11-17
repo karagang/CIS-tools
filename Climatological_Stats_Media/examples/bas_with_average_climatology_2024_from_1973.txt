@@ -1,0 +1,508 @@
+bas_with_average: Ice Concentration Climatology Report
+Target: 2024; Comparison period: 1973 to 2024
+Missing observations are excluded. Ties share rank: 1 + number of strictly higher/lower observations.
+Top 10 highest; bottom 5 lowest only when <=5 zero and >=5 positive years/seasons.
+
+Jan 01: 0.40%, 1st lowest, 2024; 49 years/seasons with data
+
+Jan 02: 0.40%, 1st lowest, 2024; 51 years/seasons with data
+
+Jan 03: 0.30%, 1st lowest, 2024; 52 years/seasons with data
+
+Jan 04: 0.40%, tied 1st lowest, 2024; 52 years/seasons with data
+
+Jan 05: 0.70%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.40%
+
+Jan 06: 1.00%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.40%
+
+Jan 07: 1.10%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.30%
+
+Jan 08: 1.70%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.30%
+
+Jan 09: 1.20%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.40%
+
+Jan 10: 1.10%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.50%
+
+Jan 11: 1.20%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.60%
+
+Jan 12: 1.50%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 0.90%
+
+Jan 13: 2.40%, tied 4th lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2007: 1.10%
+    2021: 1.90%
+    2017: 2.10%
+
+Jan 30: 6.90%, 4th lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2002: 5.00%
+    2006: 5.60%
+    2020: 6.70%
+
+Jan 31: 6.60%, 3rd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2002: 5.40%
+    2006: 5.90%
+
+Feb 01: 6.40%, tied 3rd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2002: 5.70%
+    2006: 6.10%
+
+Feb 02: 6.10%, tied 3rd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2016: 5.00%
+    2002: 6.00%
+
+Feb 05: 6.60%, tied 5th lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2006: 5.20%
+    2017: 5.80%
+    2012: 6.50%
+    2020: 6.50%
+
+Feb 07: 5.90%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 5.20%
+
+Feb 08: 5.00%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 09: 4.30%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 10: 3.00%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 11: 2.70%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 12: 2.90%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 13: 2.90%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 14: 4.00%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 15: 3.30%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 16: 3.50%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 17: 4.50%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 18: 5.30%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 19: 12.20%, 5th lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 5.40%
+    1998: 7.60%
+    2002: 8.60%
+    2023: 9.50%
+
+Feb 20: 8.50%, 5th lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2023: 6.40%
+    1998: 6.60%
+    2012: 6.80%
+    2002: 7.60%
+
+Feb 21: 6.00%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 22: 6.10%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 5.50%
+
+Feb 23: 5.20%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 4.60%
+
+Feb 24: 7.40%, 4th lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 4.60%
+    1998: 6.20%
+    2002: 6.40%
+
+Feb 25: 4.90%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 4.50%
+
+Feb 26: 4.30%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 27: 3.80%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 28: 3.30%, 1st lowest, 2024; 52 years/seasons with data
+
+Feb 29: 6.00%, 2nd lowest, 2024; 13 years/seasons with data
+  Lower concentrations in this period:
+    2012: 5.90%
+
+Mar 01: 6.30%, 3rd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 5.10%
+    1998: 5.30%
+
+Mar 02: 4.20%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 03: 3.50%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 04: 3.70%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 05: 2.70%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 06: 2.40%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 07: 2.20%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 08: 1.60%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 09: 1.50%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 10: 1.30%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 11: 1.20%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 12: 1.20%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 13: 1.20%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 14: 1.10%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 15: 1.00%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 16: 1.00%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 17: 0.60%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 18: 0.60%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 19: 0.60%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 20: 0.60%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 21: 0.80%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 22: 1.20%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 23: 0.80%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 24: 1.10%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 1.00%
+
+Mar 25: 0.70%, 1st lowest, 2024; 52 years/seasons with data
+
+Mar 26: 0.50%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.40%
+
+Mar 27: 0.60%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.40%
+
+Mar 28: 0.60%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.40%
+
+Mar 29: 0.50%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.30%
+
+Mar 30: 0.50%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.40%
+
+Mar 31: 0.40%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.30%
+
+Apr 01: 0.40%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.30%
+
+Apr 02: 0.40%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.30%
+
+Apr 03: 0.40%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.30%
+
+Apr 04: 0.30%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.20%
+
+Apr 05: 0.30%, 2nd lowest, 2024; 52 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.20%
+
+Apr 06: 0.30%, tied 2nd lowest, 2024; 51 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.20%
+
+Apr 07: 0.30%, tied 2nd lowest, 2024; 50 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.20%
+
+Apr 08: 0.30%, tied 2nd lowest, 2024; 50 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.20%
+
+Apr 09: 0.30%, 3rd lowest, 2024; 50 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.10%
+    2000: 0.20%
+
+Apr 10: 0.30%, 3rd lowest, 2024; 50 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.00%
+    2000: 0.20%
+
+Apr 11: 0.30%, tied 4th lowest, 2024; 50 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.00%
+    2000: 0.20%
+    2010: 0.20%
+
+Apr 12: 0.30%, tied 4th lowest, 2024; 50 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.00%
+    2010: 0.10%
+    2000: 0.20%
+
+Apr 13: 0.20%, tied 3rd lowest, 2024; 50 years/seasons with data
+  Lower concentrations in this period:
+    2012: 0.00%
+    2010: 0.10%
+
+Apr 14: 0.20%, tied 2nd lowest, 2024; 49 years/seasons with data
+  Lower concentrations in this period:
+    2010: 0.10%
+
+Apr 15: 0.20%, 3rd lowest, 2024; 49 years/seasons with data
+  Lower concentrations in this period:
+    2000: 0.10%
+    2010: 0.10%
+
+Apr 16: 0.10%, tied 1st lowest, 2024; 47 years/seasons with data
+
+Apr 17: 0.00%, 1st lowest, 2024; 46 years/seasons with data
+
+Apr 18: 0.00%, 1st lowest, 2024; 45 years/seasons with data
+
+Apr 19: 0.00%, 1st lowest, 2024; 45 years/seasons with data
+
+Apr 20: 0.00%, tied 1st lowest, 2024; 45 years/seasons with data
+
+Apr 21: 0.00%, tied 1st lowest, 2024; 44 years/seasons with data
+
+Apr 22: 0.00%, tied 1st lowest, 2024; 44 years/seasons with data
+
+Apr 23: 0.00%, tied 1st lowest, 2024; 44 years/seasons with data
+
+Apr 24: 0.00%, tied 1st lowest, 2024; 43 years/seasons with data
+
+Apr 25: 0.00%, tied 1st lowest, 2024; 41 years/seasons with data
+
+Nov 25: 0.00%, tied 7th highest, 2024; 8 years/seasons with data
+  Higher concentrations in this period:
+    2015: 0.60%
+    2019: 0.40%
+    2020: 0.40%
+    2014: 0.20%
+    2023: 0.20%
+    2021: 0.10%
+
+Nov 25: 0.00%, tied 1st lowest, 2024; 8 years/seasons with data
+
+Nov 26: 0.10%, tied 6th highest, 2024; 10 years/seasons with data
+  Higher concentrations in this period:
+    2015: 0.40%
+    2020: 0.40%
+    2019: 0.30%
+    2014: 0.20%
+    2023: 0.20%
+
+Nov 26: 0.10%, tied 4th lowest, 2024; 10 years/seasons with data
+  Lower concentrations in this period:
+    1996: 0.00%
+    1997: 0.00%
+    2008: 0.00%
+
+Nov 27: 0.00%, tied 8th highest, 2024; 12 years/seasons with data
+  Higher concentrations in this period:
+    2015: 0.50%
+    2019: 0.30%
+    2014: 0.20%
+    2020: 0.20%
+    2021: 0.10%
+    2022: 0.10%
+    2023: 0.10%
+
+Nov 27: 0.00%, tied 1st lowest, 2024; 12 years/seasons with data
+
+Nov 28: 0.10%, tied 5th highest, 2024; 13 years/seasons with data
+  Higher concentrations in this period:
+    2015: 0.50%
+    2014: 0.40%
+    2019: 0.30%
+    2020: 0.20%
+
+Nov 29: 0.20%, tied 6th highest, 2024; 16 years/seasons with data
+  Higher concentrations in this period:
+    2014: 1.30%
+    2015: 0.70%
+    2019: 0.50%
+    2012: 0.40%
+    2013: 0.40%
+
+Nov 30: 0.30%, tied 4th highest, 2024; 16 years/seasons with data
+  Higher concentrations in this period:
+    2014: 1.60%
+    2015: 0.90%
+    2019: 0.60%
+
+Dec 01: 0.40%, 5th highest, 2024; 18 years/seasons with data
+  Higher concentrations in this period:
+    2014: 1.50%
+    2015: 0.70%
+    2008: 0.60%
+    2019: 0.50%
+
+Dec 02: 0.40%, tied 5th highest, 2024; 22 years/seasons with data
+  Higher concentrations in this period:
+    2014: 1.00%
+    2008: 0.80%
+    2015: 0.70%
+    2003: 0.60%
+
+Dec 03: 0.40%, tied 6th highest, 2024; 25 years/seasons with data
+  Higher concentrations in this period:
+    2003: 1.10%
+    2015: 1.10%
+    2008: 1.00%
+    2014: 0.80%
+    1997: 0.60%
+
+Dec 04: 0.40%, tied 7th highest, 2024; 26 years/seasons with data
+  Higher concentrations in this period:
+    2003: 1.60%
+    2008: 1.30%
+    2015: 1.10%
+    1997: 0.70%
+    2014: 0.70%
+    2019: 0.50%
+
+Dec 05: 0.30%, tied 9th highest, 2024; 26 years/seasons with data
+  Higher concentrations in this period:
+    2008: 2.50%
+    2003: 2.10%
+    2015: 1.10%
+    2014: 1.00%
+    1997: 0.70%
+    2019: 0.50%
+    1996: 0.40%
+    2004: 0.40%
+
+Dec 08: 0.20%, tied 5th lowest, 2024; 29 years/seasons with data
+  Lower concentrations in this period:
+    1998: 0.00%
+    2000: 0.00%
+    2002: 0.00%
+    2016: 0.00%
+
+Dec 10: 0.10%, 4th lowest, 2024; 30 years/seasons with data
+  Lower concentrations in this period:
+    2000: 0.00%
+    2002: 0.00%
+    2016: 0.00%
+
+Dec 11: 0.10%, tied 4th lowest, 2024; 31 years/seasons with data
+  Lower concentrations in this period:
+    2000: 0.00%
+    2016: 0.00%
+    2017: 0.00%
+
+Dec 12: 0.10%, tied 3rd lowest, 2024; 31 years/seasons with data
+  Lower concentrations in this period:
+    2016: 0.00%
+    2017: 0.00%
+
+Dec 13: 0.10%, tied 3rd lowest, 2024; 32 years/seasons with data
+  Lower concentrations in this period:
+    2016: 0.00%
+    2017: 0.00%
+
+Dec 16: 0.20%, tied 5th lowest, 2024; 37 years/seasons with data
+  Lower concentrations in this period:
+    2016: 0.00%
+    2017: 0.00%
+    1998: 0.10%
+    1999: 0.10%
+
+Dec 17: 0.20%, tied 4th lowest, 2024; 37 years/seasons with data
+  Lower concentrations in this period:
+    2016: 0.00%
+    2017: 0.00%
+    1999: 0.10%
+
+Dec 18: 0.20%, tied 4th lowest, 2024; 38 years/seasons with data
+  Lower concentrations in this period:
+    2016: 0.00%
+    2017: 0.00%
+    1999: 0.10%
+
+Dec 20: 0.40%, tied 4th lowest, 2024; 40 years/seasons with data
+  Lower concentrations in this period:
+    2017: 0.00%
+    1994: 0.20%
+    2016: 0.20%
+
+Dec 21: 0.40%, tied 4th lowest, 2024; 43 years/seasons with data
+  Lower concentrations in this period:
+    2017: 0.00%
+    1994: 0.20%
+    2016: 0.20%
+
+Dec 23: 0.40%, tied 5th lowest, 2024; 45 years/seasons with data
+  Lower concentrations in this period:
+    2017: 0.00%
+    2016: 0.20%
+    2002: 0.30%
+    2012: 0.30%
+
+Dec 24: 0.40%, tied 4th lowest, 2024; 46 years/seasons with data
+  Lower concentrations in this period:
+    2002: 0.20%
+    2016: 0.20%
+    2017: 0.20%
+
+Dec 25: 0.40%, tied 3rd lowest, 2024; 46 years/seasons with data
+  Lower concentrations in this period:
+    2016: 0.30%
+    2017: 0.30%
+
+Dec 26: 0.20%, tied 1st lowest, 2024; 46 years/seasons with data
+
+Dec 27: 0.20%, tied 1st lowest, 2024; 47 years/seasons with data
+
+Dec 28: 0.20%, 1st lowest, 2024; 48 years/seasons with data
+
+Dec 29: 0.20%, 1st lowest, 2024; 48 years/seasons with data
+
+Dec 30: 0.20%, 1st lowest, 2024; 48 years/seasons with data
+
+Dec 31: 0.20%, 1st lowest, 2024; 49 years/seasons with data
+
+
+CSV file used: Python/GRTLKS/bas_with_average.csv

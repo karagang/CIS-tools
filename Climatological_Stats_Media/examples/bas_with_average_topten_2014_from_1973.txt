@@ -1,0 +1,707 @@
+bas_with_average: Ice Concentration Topten Report
+Target: 2014; Comparison period: 1973 to 2014
+Missing observations are excluded. Ties share rank: 1 + number of strictly higher/lower observations.
+
+
+Jan 01: 19.60%, 7th highest, 2014; 39 years/seasons with data
+  Higher concentrations in this period:
+    1977: 38.00%
+    1990: 33.20%
+    1981: 32.90%
+    1986: 25.00%
+    1984: 24.30%
+    2001: 23.20%
+
+Jan 02: 26.00%, 5th highest, 2014; 41 years/seasons with data
+  Higher concentrations in this period:
+    1977: 39.40%
+    1981: 35.60%
+    1990: 33.40%
+    1984: 26.30%
+
+Jan 03: 35.40%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 40.80%
+    1981: 38.20%
+
+Jan 04: 27.60%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 42.10%
+    1981: 41.00%
+    1990: 32.90%
+
+Jan 05: 22.20%, 6th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1981: 43.60%
+    1977: 43.40%
+    1990: 32.10%
+    1986: 26.50%
+    1984: 26.40%
+
+Jan 06: 23.60%, 8th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1981: 46.30%
+    1977: 44.60%
+    1990: 32.50%
+    1986: 25.60%
+    1984: 25.40%
+    1979: 24.90%
+    1974: 23.70%
+
+Jan 07: 31.40%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1981: 48.90%
+    1977: 47.60%
+    1990: 32.60%
+
+Jan 08: 38.60%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 49.80%
+    1981: 48.90%
+
+Jan 09: 41.20%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 52.10%
+    1981: 48.40%
+
+Jan 10: 42.30%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 54.20%
+    1981: 48.00%
+
+Jan 11: 38.00%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 56.50%
+    1981: 47.60%
+    1979: 39.20%
+
+Jan 12: 27.80%, 10th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 58.50%
+    1981: 47.30%
+    1979: 41.60%
+    1996: 36.20%
+    1974: 33.00%
+    1988: 29.80%
+    1990: 29.50%
+    1994: 29.30%
+    1984: 28.60%
+
+Jan 19: 32.60%, 9th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 71.10%
+    1982: 49.50%
+    1979: 48.80%
+    1981: 47.40%
+    1984: 44.40%
+    2009: 44.30%
+    1994: 44.20%
+    1978: 43.40%
+
+Jan 20: 33.60%, 9th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 72.50%
+    1982: 49.30%
+    1979: 48.70%
+    1994: 47.80%
+    1981: 47.70%
+    2009: 43.20%
+    1978: 42.30%
+    1984: 41.80%
+
+Jan 21: 53.90%, 2nd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 73.40%
+
+Jan 22: 58.50%, 2nd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 74.40%
+
+Jan 23: 59.60%, 2nd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 75.40%
+
+Jan 24: 57.80%, 2nd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 76.50%
+
+Jan 25: 42.40%, 7th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 77.40%
+    1994: 55.80%
+    2009: 49.00%
+    1982: 47.60%
+    1979: 45.00%
+    1981: 44.20%
+
+Jan 26: 50.60%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 78.20%
+    1994: 58.20%
+    2009: 52.20%
+
+Jan 27: 52.50%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 78.40%
+    1994: 59.20%
+    2009: 54.80%
+
+Jan 28: 63.70%, 2nd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 78.50%
+
+Jan 29: 63.80%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 78.40%
+    1994: 64.80%
+
+Jan 30: 65.70%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 78.50%
+    1994: 69.50%
+
+Jan 31: 59.20%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 78.60%
+    1994: 74.40%
+
+Feb 01: 61.70%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 78.70%
+    1994: 76.60%
+
+Feb 02: 64.60%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1994: 78.70%
+    1977: 78.40%
+
+Feb 03: 71.40%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 80.40%
+    1994: 77.30%
+
+Feb 04: 77.50%, 2nd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 81.90%
+
+Feb 05: 77.00%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 83.50%
+    1996: 81.50%
+    1994: 77.90%
+
+Feb 06: 79.50%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 85.20%
+    1994: 79.90%
+
+Feb 07: 78.80%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 86.90%
+    1994: 81.90%
+
+Feb 08: 77.80%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 88.40%
+    1994: 82.60%
+
+Feb 09: 78.00%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 89.90%
+    1994: 82.80%
+
+Feb 10: 80.20%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 89.00%
+    1994: 84.90%
+
+Feb 11: 87.00%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1977: 88.50%
+    1994: 87.20%
+
+Feb 12: 88.30%, 1st highest, 2014; 42 years/seasons with data
+
+Feb 13: 84.50%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1994: 88.40%
+    1977: 87.30%
+    1979: 85.00%
+
+Feb 14: 80.00%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1994: 89.00%
+    1977: 86.70%
+    1979: 86.50%
+
+Feb 15: 80.70%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 88.20%
+    1977: 86.10%
+    1994: 85.60%
+
+Feb 16: 81.20%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 89.80%
+    1977: 85.50%
+    1994: 82.00%
+
+Feb 17: 81.30%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 91.60%
+    1977: 85.60%
+
+Feb 18: 85.10%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 93.20%
+    1977: 85.60%
+
+Feb 19: 80.00%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 94.70%
+    1977: 85.80%
+
+Feb 20: 79.10%, 3rd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 93.60%
+    1977: 85.90%
+
+Feb 21: 69.00%, 5th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 92.60%
+    1977: 86.00%
+    1978: 78.40%
+    1986: 75.00%
+
+Feb 22: 66.70%, 7th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 91.60%
+    1977: 86.10%
+    1978: 81.50%
+    1986: 76.40%
+    1994: 69.80%
+    1985: 68.90%
+
+Feb 23: 61.60%, 8th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 90.70%
+    1977: 85.90%
+    1978: 82.00%
+    1986: 76.40%
+    1994: 71.00%
+    1985: 69.80%
+    2003: 64.40%
+
+Feb 24: 70.00%, 6th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 89.70%
+    1977: 85.60%
+    1978: 82.20%
+    1986: 76.00%
+    1994: 72.10%
+
+Feb 25: 77.10%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 88.80%
+    1977: 85.10%
+    1978: 82.40%
+
+Feb 26: 79.60%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 87.30%
+    1977: 84.60%
+    1978: 82.50%
+
+Feb 27: 82.70%, 4th highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1979: 85.70%
+    1977: 84.10%
+    1978: 82.80%
+
+Feb 28: 85.20%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 01: 85.50%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 02: 90.10%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 03: 86.00%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 04: 90.90%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 05: 91.70%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 06: 92.30%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 07: 90.20%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 08: 90.60%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 09: 90.80%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 10: 83.70%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 11: 83.00%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 12: 83.90%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 13: 85.40%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 14: 78.60%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 15: 74.50%, 2nd highest, 2014; 42 years/seasons with data
+  Higher concentrations in this period:
+    1978: 75.10%
+
+Mar 16: 75.10%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 17: 82.70%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 18: 81.90%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 19: 80.60%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 20: 76.80%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 21: 74.00%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 22: 72.70%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 23: 70.90%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 24: 77.20%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 25: 73.30%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 26: 74.10%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 27: 73.50%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 28: 71.00%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 29: 69.50%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 30: 71.80%, 1st highest, 2014; 42 years/seasons with data
+
+Mar 31: 67.20%, 1st highest, 2014; 42 years/seasons with data
+
+Apr 01: 68.90%, 1st highest, 2014; 42 years/seasons with data
+
+Apr 02: 62.80%, 1st highest, 2014; 42 years/seasons with data
+
+Apr 03: 65.50%, 1st highest, 2014; 42 years/seasons with data
+
+Apr 04: 59.60%, 1st highest, 2014; 42 years/seasons with data
+
+Apr 05: 59.70%, 1st highest, 2014; 42 years/seasons with data
+
+Apr 06: 54.20%, 1st highest, 2014; 41 years/seasons with data
+
+Apr 07: 52.80%, 1st highest, 2014; 40 years/seasons with data
+
+Apr 08: 54.80%, 1st highest, 2014; 40 years/seasons with data
+
+Apr 09: 53.30%, 1st highest, 2014; 40 years/seasons with data
+
+Apr 10: 48.00%, 1st highest, 2014; 40 years/seasons with data
+
+Apr 11: 49.00%, 1st highest, 2014; 40 years/seasons with data
+
+Apr 12: 46.60%, 1st highest, 2014; 40 years/seasons with data
+
+Apr 13: 46.80%, 1st highest, 2014; 40 years/seasons with data
+
+Apr 14: 40.70%, 1st highest, 2014; 39 years/seasons with data
+
+Apr 15: 39.00%, 1st highest, 2014; 39 years/seasons with data
+
+Apr 16: 37.20%, 1st highest, 2014; 37 years/seasons with data
+
+Apr 17: 39.40%, 1st highest, 2014; 36 years/seasons with data
+
+Apr 18: 39.50%, 1st highest, 2014; 35 years/seasons with data
+
+Apr 19: 36.80%, 1st highest, 2014; 35 years/seasons with data
+
+Apr 20: 35.90%, 1st highest, 2014; 35 years/seasons with data
+
+Apr 21: 40.00%, 1st highest, 2014; 34 years/seasons with data
+
+Apr 22: 34.00%, 1st highest, 2014; 34 years/seasons with data
+
+Apr 23: 35.00%, 1st highest, 2014; 34 years/seasons with data
+
+Apr 24: 35.40%, 1st highest, 2014; 33 years/seasons with data
+
+Apr 25: 35.90%, 1st highest, 2014; 31 years/seasons with data
+
+Apr 26: 33.20%, 1st highest, 2014; 31 years/seasons with data
+
+Apr 27: 32.90%, 1st highest, 2014; 31 years/seasons with data
+
+Apr 28: 26.80%, 1st highest, 2014; 29 years/seasons with data
+
+Apr 29: 28.70%, 1st highest, 2014; 28 years/seasons with data
+
+Apr 30: 23.50%, 1st highest, 2014; 28 years/seasons with data
+
+May 01: 20.80%, 1st highest, 2014; 28 years/seasons with data
+
+May 02: 21.00%, 1st highest, 2014; 27 years/seasons with data
+
+May 03: 21.30%, 1st highest, 2014; 26 years/seasons with data
+
+May 04: 19.00%, 1st highest, 2014; 22 years/seasons with data
+
+May 05: 16.00%, 1st highest, 2014; 19 years/seasons with data
+
+May 06: 16.10%, 1st highest, 2014; 18 years/seasons with data
+
+May 07: 16.10%, 1st highest, 2014; 17 years/seasons with data
+
+May 08: 14.20%, 1st highest, 2014; 15 years/seasons with data
+
+May 09: 12.80%, 1st highest, 2014; 14 years/seasons with data
+
+May 10: 11.90%, 1st highest, 2014; 12 years/seasons with data
+
+May 11: 9.20%, 1st highest, 2014; 11 years/seasons with data
+
+May 12: 7.80%, 1st highest, 2014; 10 years/seasons with data
+
+May 13: 8.20%, 1st highest, 2014; 10 years/seasons with data
+
+May 14: 5.00%, 1st highest, 2014; 7 years/seasons with data
+
+May 15: 5.30%, 1st highest, 2014; 6 years/seasons with data
+
+May 16: 4.90%, 1st highest, 2014; 5 years/seasons with data
+
+May 17: 3.40%, 1st highest, 2014; 5 years/seasons with data
+
+May 18: 2.60%, 1st highest, 2014; 4 years/seasons with data
+
+May 19: 2.40%, 1st highest, 2014; 4 years/seasons with data
+
+May 20: 2.50%, 1st highest, 2014; 4 years/seasons with data
+
+May 21: 1.70%, 1st highest, 2014; 4 years/seasons with data
+
+May 22: 1.40%, 1st highest, 2014; 4 years/seasons with data
+
+May 23: 1.10%, 1st highest, 2014; 4 years/seasons with data
+
+May 24: 1.60%, 1st highest, 2014; 4 years/seasons with data
+
+May 25: 1.70%, 1st highest, 2014; 4 years/seasons with data
+
+May 26: 1.70%, 1st highest, 2014; 4 years/seasons with data
+
+May 27: 1.10%, 1st highest, 2014; 4 years/seasons with data
+
+May 28: 1.30%, 1st highest, 2014; 4 years/seasons with data
+
+May 29: 0.80%, 1st highest, 2014; 3 years/seasons with data
+
+May 30: 0.40%, 1st highest, 2014; 2 years/seasons with data
+
+May 31: 0.50%, 1st highest, 2014; 2 years/seasons with data
+
+Jun 01: 0.50%, 1st highest, 2014; 1 years/seasons with data
+
+Jun 02: 0.50%, 1st highest, 2014; 1 years/seasons with data
+
+Jun 03: 0.50%, 1st highest, 2014; 1 years/seasons with data
+
+Jun 04: 0.20%, 1st highest, 2014; 1 years/seasons with data
+
+Nov 24: 0.20%, 1st highest, 2014; 2 years/seasons with data
+
+Nov 25: 0.20%, 1st highest, 2014; 2 years/seasons with data
+
+Nov 26: 0.20%, 1st highest, 2014; 4 years/seasons with data
+
+Nov 27: 0.20%, 1st highest, 2014; 4 years/seasons with data
+
+Nov 28: 0.40%, 1st highest, 2014; 5 years/seasons with data
+
+Nov 29: 1.30%, 1st highest, 2014; 7 years/seasons with data
+
+Nov 30: 1.60%, 1st highest, 2014; 7 years/seasons with data
+
+Dec 01: 1.50%, 1st highest, 2014; 9 years/seasons with data
+
+Dec 02: 1.00%, 1st highest, 2014; 13 years/seasons with data
+
+Dec 03: 0.80%, 3rd highest, 2014; 16 years/seasons with data
+  Higher concentrations in this period:
+    2003: 1.10%
+    2008: 1.00%
+
+Dec 04: 0.70%, tied 3rd highest, 2014; 17 years/seasons with data
+  Higher concentrations in this period:
+    2003: 1.60%
+    2008: 1.30%
+
+Dec 05: 1.00%, 3rd highest, 2014; 17 years/seasons with data
+  Higher concentrations in this period:
+    2008: 2.50%
+    2003: 2.10%
+
+Dec 06: 0.90%, tied 4th highest, 2014; 18 years/seasons with data
+  Higher concentrations in this period:
+    2008: 2.80%
+    2003: 2.10%
+    1992: 2.00%
+
+Dec 07: 1.00%, 7th highest, 2014; 19 years/seasons with data
+  Higher concentrations in this period:
+    2008: 2.80%
+    2003: 2.10%
+    1992: 1.90%
+    2006: 1.50%
+    2001: 1.20%
+    1996: 1.10%
+
+Dec 08: 1.10%, 8th highest, 2014; 20 years/seasons with data
+  Higher concentrations in this period:
+    1992: 3.00%
+    2008: 2.90%
+    2009: 2.80%
+    2003: 2.10%
+    2006: 2.10%
+    1996: 1.90%
+    2001: 1.60%
+
+Dec 09: 2.80%, tied 3rd highest, 2014; 21 years/seasons with data
+  Higher concentrations in this period:
+    1992: 3.10%
+    1996: 3.10%
+
+Dec 10: 4.10%, 2nd highest, 2014; 21 years/seasons with data
+  Higher concentrations in this period:
+    1996: 4.30%
+
+Dec 11: 5.20%, 2nd highest, 2014; 21 years/seasons with data
+  Higher concentrations in this period:
+    1996: 5.50%
+
+Dec 12: 7.60%, 1st highest, 2014; 21 years/seasons with data
+
+Dec 13: 9.40%, 1st highest, 2014; 22 years/seasons with data
+
+Dec 14: 10.20%, 1st highest, 2014; 25 years/seasons with data
+
+Dec 15: 9.30%, 1st highest, 2014; 26 years/seasons with data
+
+Dec 16: 12.30%, 2nd highest, 2014; 27 years/seasons with data
+  Higher concentrations in this period:
+    1977: 17.50%
+
+Dec 17: 13.40%, 3rd highest, 2014; 27 years/seasons with data
+  Higher concentrations in this period:
+    1977: 18.40%
+    1990: 14.60%
+
+Dec 18: 11.20%, 3rd highest, 2014; 28 years/seasons with data
+  Higher concentrations in this period:
+    1977: 18.80%
+    1990: 16.80%
+
+Dec 19: 10.30%, 4th highest, 2014; 28 years/seasons with data
+  Higher concentrations in this period:
+    1977: 19.40%
+    1990: 18.00%
+    1986: 10.40%
+
+Dec 20: 10.90%, 4th highest, 2014; 30 years/seasons with data
+  Higher concentrations in this period:
+    1977: 19.90%
+    1990: 19.30%
+    1986: 11.60%
+
+Dec 21: 10.90%, 5th highest, 2014; 33 years/seasons with data
+  Higher concentrations in this period:
+    1990: 21.60%
+    1977: 20.40%
+    1986: 12.90%
+    1973: 11.90%
+
+Dec 22: 9.60%, 7th highest, 2014; 34 years/seasons with data
+  Higher concentrations in this period:
+    1990: 23.80%
+    1977: 20.90%
+    1986: 14.90%
+    1973: 11.60%
+    2009: 11.60%
+    1984: 10.00%
+
+Dec 23: 9.10%, 9th highest, 2014; 35 years/seasons with data
+  Higher concentrations in this period:
+    1990: 26.00%
+    1977: 21.10%
+    1986: 16.00%
+    2009: 11.90%
+    2001: 11.00%
+    1973: 10.90%
+    1984: 10.80%
+    1976: 10.00%
+
+Dec 24: 9.50%, 10th highest, 2014; 36 years/seasons with data
+  Higher concentrations in this period:
+    1990: 28.10%
+    1977: 24.10%
+    1986: 17.10%
+    2001: 13.10%
+    2009: 12.50%
+    1984: 11.50%
+    1973: 10.60%
+    1976: 10.50%
+    1981: 9.60%
+
+Dec 25: 14.50%, 5th highest, 2014; 36 years/seasons with data
+  Higher concentrations in this period:
+    1990: 29.50%
+    1977: 25.80%
+    1986: 18.20%
+    2001: 15.20%
+
+Dec 26: 13.30%, 6th highest, 2014; 36 years/seasons with data
+  Higher concentrations in this period:
+    1990: 31.10%
+    1977: 27.60%
+    1986: 19.30%
+    1981: 17.00%
+    2001: 15.80%
+
+Dec 27: 13.20%, 7th highest, 2014; 37 years/seasons with data
+  Higher concentrations in this period:
+    1990: 32.60%
+    1977: 29.50%
+    1986: 20.50%
+    1981: 19.60%
+    2001: 16.20%
+    1984: 13.70%
+
+Dec 28: 9.40%, 10th highest, 2014; 38 years/seasons with data
+  Higher concentrations in this period:
+    1990: 33.30%
+    1977: 31.30%
+    1981: 22.30%
+    1986: 21.40%
+    1984: 16.60%
+    2001: 16.60%
+    1978: 12.70%
+    1976: 11.50%
+    1996: 10.10%
+
+Dec 31: 16.10%, 7th highest, 2014; 39 years/seasons with data
+  Higher concentrations in this period:
+    1977: 36.70%
+    1990: 33.50%
+    1981: 30.40%
+    1986: 24.20%
+    1984: 22.40%
+    2001: 21.70%
+
+
+CSV file used: Python/GRTLKS/bas_with_average.csv
